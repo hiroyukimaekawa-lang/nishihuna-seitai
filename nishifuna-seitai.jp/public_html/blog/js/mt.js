@@ -431,7 +431,7 @@ MT.util = function () {
     _setCommentOffset();
     
     jsonUrl = [
-        "http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-comments.cgi?__mode=comment_listing&direction=",
+        "/cgi-bin/mt/mt-comments.cgi?__mode=comment_listing&direction=",
         direction,
         "&entry_id=",
         entryID,
@@ -488,7 +488,7 @@ function mtScore(entry_id) {
 
     var sid = u ? u.sid : 0;
     var script = document.createElement('script');
-    script.src = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi?__mode=vote&blog_id=9358&f=scored,count&jsonp=mtScore_cb&id=' + entry_id + '&magic_token=' + sid + p;
+    script.src = '/cgi-bin/mt/mt-cp.cgi?__mode=vote&blog_id=9358&f=scored,count&jsonp=mtScore_cb&id=' + entry_id + '&magic_token=' + sid + p;
     (document.getElementsByTagName('head'))[0].appendChild(script);
     return false;
 }
@@ -513,7 +513,7 @@ function mtUpdateScores() {
     if (!xh) return false;
 
     var script = document.createElement('script');
-    script.src = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi?__mode=score&blog_id=9358&f=scored,count&jsonp=mtScore_cb&id=' + entry_ids;
+    script.src = '/cgi-bin/mt/mt-cp.cgi?__mode=score&blog_id=9358&f=scored,count&jsonp=mtScore_cb&id=' + entry_ids;
     (document.getElementsByTagName('head'))[0].appendChild(script);
     return false;
 }
@@ -570,7 +570,7 @@ function script_follow(id) {
     if (!u || !u.name) return;
     var xh = mtGetXmlHttp();
     if (!xh) return false;
-    xh.open('POST', 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi', true);
+    xh.open('POST', '/cgi-bin/mt/mt-cp.cgi', true);
     xh.onreadystatechange = function() {
         if ( xh.readyState == 4 ) {
             if (xh.status && ( xh.status != 200 ) ) {
@@ -592,7 +592,7 @@ function script_leave(id) {
     if (!u || !u.name) return;
     var xh = mtGetXmlHttp();
     if (!xh) return false;
-    xh.open('POST', 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi', true);
+    xh.open('POST', '/cgi-bin/mt/mt-cp.cgi', true);
     xh.onreadystatechange = function() {
         if ( xh.readyState == 4 ) {
             if (xh.status && ( xh.status != 200 ) ) {
@@ -1056,7 +1056,7 @@ function mtFetchUser(cb) {
         var u = mtGetUser();
         var script = document.createElement('script');
         var ts = new Date().getTime();
-        script.src = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-comments.cgi?__mode=userinfo&blog_id=9358&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
+        script.src = '/cgi-bin/mt/mt-comments.cgi?__mode=userinfo&blog_id=9358&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
         (document.getElementsByTagName('head'))[0].appendChild(script);
     }
 }
@@ -1066,7 +1066,7 @@ function mtVerifySession(cb) {
     var script = document.createElement('script');
     var ts = new Date().getTime();
     var u = mtGetUser();
-    script.src = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-comments.cgi?__mode=verify_session&blog_id=9358&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
+    script.src = '/cgi-bin/mt/mt-comments.cgi?__mode=verify_session&blog_id=9358&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
     (document.getElementsByTagName('head'))[0].appendChild(script);
 }
 
@@ -1194,7 +1194,7 @@ mtAttachEvent('usersignin', mtUserOnLoad);
 function mtSignIn() {
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi?__mode=login&blog_id=9358';
+    var url = '/cgi-bin/mt/mt-cp.cgi?__mode=login&blog_id=9358';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -1239,7 +1239,7 @@ function mtSignOut(entry_id) {
     mtClearUser();
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://www.nishifuna-seitai.jp/cgi-bin/mt/mt-cp.cgi?__mode=logout&blog_id=9358';
+    var url = '/cgi-bin/mt/mt-cp.cgi?__mode=logout&blog_id=9358';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;

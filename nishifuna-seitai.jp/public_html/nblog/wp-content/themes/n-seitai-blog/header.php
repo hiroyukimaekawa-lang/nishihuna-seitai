@@ -57,14 +57,14 @@
 		<div class="clearfix"><h1>船橋市の整体院で働くスラッ付がBlogを書いています！</h1><p></p></div>
 		<!-- START headerLeft -->
 		<div id="headerLeft">
-			<div id="logo"><a href="http://www.nishifuna-seitai.jp" class="logo"><img src="http://www.nishifuna-seitai.jp/images_mt/logo.png" alt="船橋市の西船橋駅近くにある整体院"></a></div>
+			<div id="logo"><a href="/" class="logo"><img src="/images_mt/logo.png" alt="船橋市の西船橋駅近くにある整体院"></a></div>
 			<h2>駐車場完備、常時女性スタッフ在住、船橋市で整体をお探しなら西船整体院</h2>
 		</div>
 		<!-- END headerLeft -->
 		<!-- START headerRight -->
 		<div id="headerRight">
 			<div id="telNumberWrap" class="clearfix">
-				<div id="telNumber"><img src="http://www.nishifuna-seitai.jp/images_mt/tel.png" alt="047-433-3377"></div>
+				<div id="telNumber"><img src="/images_mt/tel.png" alt="047-433-3377"></div>
 			</div>
 			<div id="headerRightUnder" class="clearfix">
 				<div id="fontSizeChange" class="clearfix">

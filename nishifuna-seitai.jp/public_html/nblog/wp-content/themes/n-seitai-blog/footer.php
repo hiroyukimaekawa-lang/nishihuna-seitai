@@ -8,15 +8,15 @@
 	<div class="clearfix" id="footerInner">
 		<div id="footerContent">
 			<ul>
-				<li><a href="http://www.nishifuna-seitai.jp/">HOME</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/leg">O脚X脚</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/ashiyase">足痩せ</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/kotsuban">骨盤矯正</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/sango">産後の患者様へ</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/introduction">治療院・サロンの紹介</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/access">アクセス</a> |</li>
-				<li><a href="http://www.nishifuna-seitai.jp/staff">スタッフ紹介</a></li>
-				<li> | <a href="http://www.nishifuna-seitai.jp/sitemap.html">サイトマップ</a></li>
+				<li><a href="/">HOME</a> |</li>
+				<li><a href="/leg">O脚X脚</a> |</li>
+				<li><a href="/ashiyase">足痩せ</a> |</li>
+				<li><a href="/kotsuban">骨盤矯正</a> |</li>
+				<li><a href="/sango">産後の患者様へ</a> |</li>
+				<li><a href="/introduction">治療院・サロンの紹介</a> |</li>
+				<li><a href="/access">アクセス</a> |</li>
+				<li><a href="/staff">スタッフ紹介</a></li>
+				<li> | <a href="/sitemap.html">サイトマップ</a></li>
 			</ul>
 			<address>Copyright (C) カイロプラクティックセンター西船整体院 All Right Reserved.</address>
 		</div>
@@ -41,6 +41,6 @@
 <script language="JavaScript" src="https://www31.tracer.jp:443/js/VLJavaScript_bs.js"></script>
 <img src="https://www31.tracer.jp:443/VL/Trace?g=/1&amp;c=15318&amp;r=http%3A//www.nishifuna-seitai.jp/blog/blog/&amp;l=http%3A//www.nishifuna-seitai.jp/blog/blog/index_2.html&amp;t=%u8239%u6A4B%u306B%u3042%u308B%u6574%u4F53%u9662%u306E%u30B9%u30BF%u30C3%u30D5%u304C%u9001%u308B%u5065%u5EB7%u60C5%u5831Blog&amp;k=true&amp;sf=true&amp;j=false&amp;w=1280&amp;h=720&amp;d=24&amp;o=http%3A&amp;tp=1&amp;lng=ja&amp;jt=1435250672894&amp;jd=1435250672895_1" alt="" border="0" height="0" width="0">
 <?php wp_footer(); ?>
-<script type="text/javascript" src="http://www.nishifuna-seitai.jp/_rpsv/script.js"></script>
+<script type="text/javascript" src="/_rpsv/script.js"></script>
 </body>
 </html>

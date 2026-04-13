@@ -1,42 +1,42 @@
 <div id="side">
     <div id="sideInner">
-    <div class="banner sort"><a href="http://www.nishifuna-seitai.jp/kotsuban" title=""> <img src="http://www.nishifuna-seitai.jp/images_mt/side_bn02_mouseout.jpg" alt="骨盤矯正" width="220"></a></div>
-<div class="banner sort"><a href="http://www.nishifuna-seitai.jp/sango" title=""> <img src="http://www.nishifuna-seitai.jp/images_mt/side_bn03_mouseout.jpg" alt="産後の患者様へ" width="220"></a></div>
+    <div class="banner sort"><a href="/kotsuban" title=""> <img src="/images_mt/side_bn02_mouseout.jpg" alt="骨盤矯正" width="220"></a></div>
+<div class="banner sort"><a href="/sango" title=""> <img src="/images_mt/side_bn03_mouseout.jpg" alt="産後の患者様へ" width="220"></a></div>
 <!-- Type1 -->
 	<div class="sort" id="navigation">
 		<div id="navigationInner">
 			<ul class="clearfix" id="nav">
 				<li class="parent">
-				    <a href="http://www.nishifuna-seitai.jp/" class="navigationBg"><span>HOME</span></a>
+				    <a href="/" class="navigationBg"><span>HOME</span></a>
 				</li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/leg" class="navigationBg"><span>O脚X脚</span></a>
+			        <a href="/leg" class="navigationBg"><span>O脚X脚</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/ashiyase" class="navigationBg"><span>足痩せ</span></a>
+			        <a href="/ashiyase" class="navigationBg"><span>足痩せ</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/kotsuban" class="navigationBg"><span>骨盤矯正</span></a>
+			        <a href="/kotsuban" class="navigationBg"><span>骨盤矯正</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/sango" class="navigationBg"><span>産後の患者様へ</span></a>
+			        <a href="/sango" class="navigationBg"><span>産後の患者様へ</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/introduction" class="navigationBg"><span>治療院・サロンの紹介</span></a>
+			        <a href="/introduction" class="navigationBg"><span>治療院・サロンの紹介</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/access" class="navigationBg"><span>アクセス</span></a>
+			        <a href="/access" class="navigationBg"><span>アクセス</span></a>
 			    </li>
 			    <li class="parent">
-			        <a href="http://www.nishifuna-seitai.jp/staff" class="navigationBg"><span>スタッフ紹介</span></a>
+			        <a href="/staff" class="navigationBg"><span>スタッフ紹介</span></a>
 			    </li>
 			</ul>
 		</div>
 		<div id="navigationFooter"><img alt="" src="/images/spacer.gif" height="1" width="1"></div>
 	</div>
-<div class="banner sort"><a href="http://www.nishifuna-seitai.jp/nblog/?cat=2" title=""> <img src="http://www.nishifuna-seitai.jp/images_mt/blog_mouseout.png" alt="" width="220"></a></div>
-<div class="banner sort"><a href="http://www.nishifuna-seitai.jp/nblog/?cat=3" title="患者様の声"> <img src="http://www.nishifuna-seitai.jp/images_mt/side_voice_mouseout.png" alt="患者様の声" width="220"></a></div>
-<div class="banner sort"><a href="http://www.nishifuna-seitai.jp/nblog/?cat=4" title="よくある質問"> <img src="http://www.nishifuna-seitai.jp/images_mt/side_qa_mouseout.png" alt="よくある質問" width="220"></a></div>
+<div class="banner sort"><a href="/nblog/?cat=2" title=""> <img src="/images_mt/blog_mouseout.png" alt="" width="220"></a></div>
+<div class="banner sort"><a href="/nblog/?cat=3" title="患者様の声"> <img src="/images_mt/side_voice_mouseout.png" alt="患者様の声" width="220"></a></div>
+<div class="banner sort"><a href="/nblog/?cat=4" title="よくある質問"> <img src="/images_mt/side_qa_mouseout.png" alt="よくある質問" width="220"></a></div>
 <div id="access" class="sort">
 <div id="accessInner">
 <div id="accessTitle"><img src="/style/00/images/access_title.png" alt="アクセス"></div>
@@ -49,13 +49,13 @@ JR西船橋駅<br>
 ■駐車場<br>
 2台完備</p>
 <div id="accessBtn">
-<a id="detailAccessBtn" href="http://www.nishifuna-seitai.jp/access"><img src="/style/00/images/btn_access_detail.png" alt="詳しくはこちら"></a>
+<a id="detailAccessBtn" href="/access"><img src="/style/00/images/btn_access_detail.png" alt="詳しくはこちら"></a>
 </div>
 </div>
 <div id="accessBottom"></div>
 </div>
-<div class="banner sort"><a href="http://www.nishifuna-seitai.com/" title="西船整体院,カイロプラクティックセンター" target="_blank"> <img src="http://www.nishifuna-seitai.jp/images_mt/seitai%20nishifuna.jpg" alt="西船整体院　カイロプラクティックセンター" width="220"></a></div>
-<div class="banner sort"><a href="http://www.pa-ra.com/" title="para,西船橋,エステ" target="_blank"> <img src="http://www.nishifuna-seitai.jp/images_mt/nishifuna-para.jpg" alt="para 西船橋" width="220"></a></div>
+<div class="banner sort"><a href="http://www.nishifuna-seitai.com/" title="西船整体院,カイロプラクティックセンター" target="_blank"> <img src="/images_mt/seitai%20nishifuna.jpg" alt="西船整体院　カイロプラクティックセンター" width="220"></a></div>
+<div class="banner sort"><a href="http://www.pa-ra.com/" title="para,西船橋,エステ" target="_blank"> <img src="/images_mt/nishifuna-para.jpg" alt="para 西船橋" width="220"></a></div>
     </div>
     <!-- END sideInner -->
     <div id="sideFooter"><img alt="" src="/images/spacer.gif" height="1" width="1"></div>

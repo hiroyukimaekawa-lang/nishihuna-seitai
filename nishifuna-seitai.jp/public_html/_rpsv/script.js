@@ -33,7 +33,7 @@ if(ua.iPhone||ua.android||ua.windows) {
 			var css = document.createElement('link');
 			css.setAttribute('rel', 'stylesheet');
 			css.setAttribute('type', 'text/css');
-			css.setAttribute('href', 'http://www.nishifuna-seitai.jp/_rpsv/style.css');
+			css.setAttribute('href', '/_rpsv/style.css');
 			head.appendChild(css);
 			var viewport = document.createElement('meta');
 			viewport.setAttribute('name', 'viewport');
@@ -46,7 +46,7 @@ if(ua.iPhone||ua.android||ua.windows) {
 //			var content = '';
 //			var menu = '';
 
-			if(location.href=='http://www.nishifuna-seitai.jp/staff/' || location.href=='http://www.nishifuna-seitai.jp/staff/index.html') {
+			if(location.href=='/staff/' || location.href=='/staff/index.html') {
 				$('.contentLayoutArea > div:nth-child(2) > h4:nth-child(1) > span:nth-child(1)').text('院長 小林 祥朗（こばやし よしろう）');
 			}
 		});

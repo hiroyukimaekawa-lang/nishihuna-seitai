@@ -38,7 +38,7 @@
 		<div class="entry-content">
 			<?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'twentytwelve' ) ); ?>
 			<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'twentytwelve' ), 'after' => '</div>' ) ); ?>
-<a href="http://www.pa-ra.com/" target="_blank">→西船橋のエステティックサロン トータルボディケアPaRa（パラ）はこちら</a>
+<a href="/" target="_blank">→西船橋のエステティックサロン トータルボディケアPaRa（パラ）はこちら</a>
 		</div><!-- .entry-content -->
 		<?php endif; ?>
 

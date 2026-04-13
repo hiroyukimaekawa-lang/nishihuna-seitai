@@ -17,7 +17,7 @@
 <meta name="keywords" content="整体,船橋,西船橋,肩こり,骨盤矯正,腰痛,O脚,X脚,脚痩せ" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
-<link rel="top home start" href="http://www.nishifuna-seitai.com/" />
+<link rel="top home start" href="/" />
 <link rel="index" href="sitemap.html" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css" />
 <link href="css/common.css" rel="stylesheet" type="text/css" />

@@ -37,7 +37,7 @@
 	#header #headerRight div#telNumber {
 		text-align: right !important;
 	}
-	img[src="http://www.nishifuna-seitai.jp/images_mt/top_btn01_mouseout.png"],img[src="http://www.nishifuna-seitai.jp/images_mt/top_btn02_mouseout.png"]
+	img[src="/images_mt/top_btn01_mouseout.png"],img[src="/images_mt/top_btn02_mouseout.png"]
 		{
 		margin: 0 !important;
 	}

@@ -31,7 +31,7 @@
 //---------------------------　必須設定　必ず設定してください　-----------------------
 
 //サイトのトップページのURL　※デフォルトでは送信完了後に「トップページへ戻る」ボタンが表示されますので
-$site_top = "http://www.pa-ra.com/sp/";
+$site_top = "/sp/";
 
 // 管理者メールアドレス ※メールを受け取るメールアドレス(複数指定する場合は「,」で区切ってください 例 $to = "aa@aa.aa,bb@bb.bb";)
 $to = "chamineko.171002@za.cyberhome.ne.jp";
@@ -76,7 +76,7 @@ $confirmDsp = 1;
 $jumpPage = 1;
 
 // 送信完了後に表示するページURL（上記で1を設定した場合のみ）※httpから始まるURLで指定ください。
-$thanksPage = "http://www.pa-ra.com/sp/";
+$thanksPage = "/sp/";
 
 // 必須入力項目を設定する(する=1, しない=0)
 $requireCheck = 1;

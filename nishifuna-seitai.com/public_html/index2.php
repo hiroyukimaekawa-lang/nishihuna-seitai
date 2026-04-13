@@ -8,7 +8,7 @@
 <meta name="keywords" content="®‘Ì,‘D‹´,¼‘D‹´,Œ¨‚±‚è,œ”Õ‹¸³,˜’É,O‹r,X‹r,‹r‘‰‚¹" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
-<link rel="top home start" href="http://www.nishifuna-seitai.com/" />
+<link rel="top home start" href="/" />
 <link rel="index" href="sitemap.html" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css" />
 <link href="css/common.css" rel="stylesheet" type="text/css" />

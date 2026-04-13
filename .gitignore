@@ -1,0 +1,24 @@
+# Xserver system directories
+n-seitai.xsrv.jp/
+nishifuna-seitai.com/autoreply/
+nishifuna-seitai.com/htpasswd/
+nishifuna-seitai.com/log/
+nishifuna-seitai.com/mail/
+nishifuna-seitai.com/script/
+nishifuna-seitai.jp/autoreply/
+nishifuna-seitai.jp/htpasswd/
+nishifuna-seitai.jp/log/
+nishifuna-seitai.jp/mail/
+nishifuna-seitai.jp/script/
+pa-ra.com/autoreply/
+pa-ra.com/htpasswd/
+pa-ra.com/log/
+pa-ra.com/mail/
+pa-ra.com/script/
+Maildir/
+Maildir*/
+ssl/
+
+# OS files
+.DS_Store
+Thumbs.db

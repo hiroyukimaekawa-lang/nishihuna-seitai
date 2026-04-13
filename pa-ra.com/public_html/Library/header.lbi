@@ -1,0 +1,32 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<div id="header" class="clearfix">
+
+<a href="../index.php">
+			<img src="../img/logo.png" alt="エステティックサロンPaRa（パラ）" width="174" height="69" /></a>
+			<div id="headerRight" class="clearfix">
+			<div id="headerCopy">
+			<h1>船橋市西船橋のエステティックサロン</h1>
+			<h2>船橋市のエステ・痩身・フェイシャル・アンチエイジングはPaRa（パラ）へ</h2></div>
+			
+			<div id="siteMap"><a href="../sitemap.html">サイトマップ</a>
+			</div>
+			</div>
+			
+			<ul class="clearfix">
+				
+				<li id="contact"><a href="../contact.html">お問い合わせ</a></li>
+				<li id="about"><a href="../recruit.html">スタッフ募集</a></li>
+			</ul><br class="clear" />
+			
+	</div><!--ヘッダー-->
+		
+	<ul id="headMenu">
+		<li id="top"><a href="../index.php">トップ</a></li>
+		<li id="flow"><a href="../operation.html">施術案内</a></li>
+			<li id="staff"><a href="../staff.html">スタッフ紹介</a></li>
+			<li id="price"><a href="../price.html">料金表</a></li>
+			<li id="access"><a href="../access.html">アクセス</a></li>
+			<li id="faq"><a href="../faq.html">よくあるご質問</a></li>
+	</ul>

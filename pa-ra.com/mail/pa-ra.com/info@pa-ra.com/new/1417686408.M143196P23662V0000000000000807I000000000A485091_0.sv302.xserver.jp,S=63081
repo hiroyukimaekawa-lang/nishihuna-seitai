@@ -1,0 +1,955 @@
+Return-Path: <system@optimizr.net>
+Delivered-To: info@pa-ra.com
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 0FD541080255
+	for <info@pa-ra.com>; Thu,  4 Dec 2014 18:46:48 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 04 Dec 2014 18:46:48 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from omg01.optimizr.net (omg01.optimizr.net [148.251.137.211])
+	by sv302.xserver.jp (Postfix) with ESMTP id 4BB431080254
+	for <info@pa-ra.com>; Thu,  4 Dec 2014 18:46:46 +0900 (JST)
+Received: from optimizr.net (optimizr.net [178.63.88.243])
+	by omg01.optimizr.net (Postfix) with ESMTP id 7F0E03A4108D
+	for <info@pa-ra.com>; Thu,  4 Dec 2014 10:46:44 +0100 (CET)
+Received: by optimizr.net (Postfix, from userid 33)
+	id 774EE5A0B58; Thu,  4 Dec 2014 10:46:44 +0100 (CET)
+Date: Thu, 4 Dec 2014 10:46:44 +0100
+To: info@pa-ra.com
+From: Optimizr <system@optimizr.net>
+Reply-to: Optimizr <system@optimizr.net>
+Subject: We found 297 issues on www.pa-ra.com
+Message-ID: <80cff46cb631f0cb450e2d011670ef2a@optimizr.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+X-Mailgun-Track-Opens: yes
+X-Mailgun-Variables: {"email-id":"wp-170883","welcome":2}
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="b1_80cff46cb631f0cb450e2d011670ef2a"
+XSRV-Filter: info@pa-ra.com
+
+
+--b1_80cff46cb631f0cb450e2d011670ef2a
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Email</title>
+    <style type="text/css">
+        table {
+            text-align: center;
+        }
+
+        body {
+            background: #ededed;
+        }
+
+        html, body, table, p {
+            padding: 0;
+            margin: 0;
+            color: #000000;
+            font-size: 16px !important;
+            font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif;
+        }
+
+        p {
+            margin: 10px 0;
+            text-align: justify;
+        }
+
+        h1, h2, h3, p, li, td {
+            font-size: 16px;
+            font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif;
+        }
+
+        td {
+            vertical-align: top;
+            text-align: left;
+            line-height: 26px;
+        }
+
+        a {
+            text-decoration: underline;
+        }
+
+        ol li {
+            list-style-type: decimal-leading-zero;
+        }
+    </style>
+</head>
+<body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0" style="margin:0px;background:#ededed;"
+      bgcolor="#000000" link="#000000" vlink="#000000" alink="#000000" cz-shortcut-listen="true">
+
+<table width="100%" style="width:100%;" align="center" cellpadding="0" cellspacing="20">
+    <tbody>
+    <tr>
+        <td>
+
+            <center>
+
+                <table style="background:#e1e1e1;" cellpadding="0" cellspacing="0" bgcolor="#e1e1e1">
+                    <tbody>
+                    <tr>
+                        <td>
+                            <table width="720"
+                                   style="width:720px;background-color:#ffffff;margin-right:7px;margin-bottom:7px;"
+                                   align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+                                <tbody>
+                                <tr>
+                                    <td>
+                                        <table width="720"
+                                               style="width:720px;margin-left:auto;margin-right:auto;background-color:#007ac9;"
+                                               align="center" cellpadding="0" cellspacing="0" bgcolor="#007ac9">
+                                            <tbody>
+                                            <tr>
+                                                <td height="70" style="height:70px;background:#2f3640;"><a
+                                                        href="http://optimizr.com/"><img
+                                                        style="display:block;margin:20px 30px 15px 25px;padding:0;"
+                                                        src="cid:optimizr-email-logo-jpg" alt="" width="175"
+                                                        height="36"></a></td>
+                                                <td height="70" style="height:70px;background:#2f3640;">
+                                                    <table align="right" style="margin-right:10px;" cellspacing="19">
+                                                        <tbody>
+                                                        <tr>
+                                                            <td align="center" bgcolor="#e78a6e"
+                                                                style="text-align:center;background: #e78a6e; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; color: #fff; font-weight: bold; text-decoration: none; display: block;border-right:solid 1px #05070a;border-bottom:solid 1px #05070a;">
+                                                                <a href="" style="color: #fff; text-decoration: none;"><font size="3">www.pa-ra.com</font></a></td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                        <table width="100%" style="width:100%;" align="center" cellpadding="0" cellspacing="20">
+                                            <tbody>
+                                            <tr>
+                                                <td>
+                                                    <table width="100%" style="width:100%;" align="center" cellpadding="5"
+       cellspacing="20">
+    <tbody>
+    <tr>
+        <td>
+            <table width="100%" style="width:100%;" align="center"
+                   cellpadding="5" cellspacing="0">
+                <tbody>
+                <tr>
+                    <td style="line-height:26px;">
+                        <font size="2"
+                              style="font-size:14px;mso-line-height-rule: exactly;line-height:150%;"
+                              color="#333333">
+                            <p>Hello,</p>
+
+                            <p>We just checked your page www.pa-ra.com for known problems and our crawler found <font color="#ce3440"><b>297 issues</b></font> problems.</p>
+
+                            <p>These are amongst others:</p>
+                        </font>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table width="100%" style="background:#f2f2f2;width:100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding-bottom:4px;padding-right:4px;">
+            <table width="100%" bgcolor="#ffffff" cellpadding="10" cellspacing="5" style="border:solid 1px #dddddd;border-collapse:collapse;background:#ffffff;">
+                <tbody><tr>
+                    <td>
+                        <table width="100%" sstyle="margin-left:10px;margin-right:10px;width:100%;">
+                            <tbody><tr>
+                                <td style="width:70%;line-height:21px;">
+                                    <a style="color:#ce3440;text-decoration:none;font-size:18px;margin:0;margin-bottom:6px;display:block;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><font color="#ce3440;">Alt Attribute not set
+</font></a>
+                                    <font size="3">All of these pictures do not use the alt-attribute. This attribute helps Google to understand what an image is about.</font>
+                                </td>
+                                <td style="width:30%" align="right">
+                                    <br>
+                                    <table cellpadding="4" width="140" align="right" bgcolor="#ce3440" cellspacing="2" border="0">
+                                        <tbody><tr>
+                                            <td align="center" style="line-height:26px;">
+                                                <a style="text-decoration: none;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><center><font size="3" color="#ffffff">Show errors</font></center></a>
+                                            </td>
+                                        </tr>
+                                        </tbody></table>
+                                </td>
+                            </tr>
+                            </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>
+        </td></tr></tbody></table>
+    </td>
+</tr><tr>
+    <td>
+        <table width="100%" style="background:#f2f2f2;width:100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding-bottom:4px;padding-right:4px;">
+            <table width="100%" bgcolor="#ffffff" cellpadding="10" cellspacing="5" style="border:solid 1px #dddddd;border-collapse:collapse;background:#ffffff;">
+                <tbody><tr>
+                    <td>
+                        <table width="100%" sstyle="margin-left:10px;margin-right:10px;width:100%;">
+                            <tbody><tr>
+                                <td style="width:70%;line-height:21px;">
+                                    <a style="color:#ce3440;text-decoration:none;font-size:18px;margin:0;margin-bottom:6px;display:block;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><font color="#ce3440;">Empty Meta-Description</font></a>
+                                    <font size="3">Google may use the meta-description tag to construct the snippets that they show with your search result. By leaving this tag empty, you are giving away a powerful tool to catch a users interest in your site and increase your click-through-rate.</font>
+                                </td>
+                                <td style="width:30%" align="right">
+                                    <br>
+                                    <table cellpadding="4" width="140" align="right" bgcolor="#ce3440" cellspacing="2" border="0">
+                                        <tbody><tr>
+                                            <td align="center" style="line-height:26px;">
+                                                <a style="text-decoration: none;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><center><font size="3" color="#ffffff">Show errors</font></center></a>
+                                            </td>
+                                        </tr>
+                                        </tbody></table>
+                                </td>
+                            </tr>
+                            </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>
+        </td></tr></tbody></table>
+    </td>
+</tr><tr>
+    <td>
+        <table width="100%" style="background:#f2f2f2;width:100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding-bottom:4px;padding-right:4px;">
+            <table width="100%" bgcolor="#ffffff" cellpadding="10" cellspacing="5" style="border:solid 1px #dddddd;border-collapse:collapse;background:#ffffff;">
+                <tbody><tr>
+                    <td>
+                        <table width="100%" sstyle="margin-left:10px;margin-right:10px;width:100%;">
+                            <tbody><tr>
+                                <td style="width:70%;line-height:21px;">
+                                    <a style="color:#ce3440;text-decoration:none;font-size:18px;margin:0;margin-bottom:6px;display:block;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><font color="#ce3440;">Multiple use for H1
+</font></a>
+                                    <font size="3">A H1 heading has been used multiple times per page. This tag may only be used once per document.</font>
+                                </td>
+                                <td style="width:30%" align="right">
+                                    <br>
+                                    <table cellpadding="4" width="140" align="right" bgcolor="#ce3440" cellspacing="2" border="0">
+                                        <tbody><tr>
+                                            <td align="center" style="line-height:26px;">
+                                                <a style="text-decoration: none;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><center><font size="3" color="#ffffff">Show errors</font></center></a>
+                                            </td>
+                                        </tr>
+                                        </tbody></table>
+                                </td>
+                            </tr>
+                            </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>
+        </td></tr></tbody></table>
+    </td>
+</tr><tr>
+    <td>
+        <table width="100%" style="background:#f2f2f2;width:100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding-bottom:4px;padding-right:4px;">
+            <table width="100%" bgcolor="#ffffff" cellpadding="10" cellspacing="5" style="border:solid 1px #dddddd;border-collapse:collapse;background:#ffffff;">
+                <tbody><tr>
+                    <td>
+                        <table width="100%" sstyle="margin-left:10px;margin-right:10px;width:100%;">
+                            <tbody><tr>
+                                <td style="width:70%;line-height:21px;">
+                                    <a style="color:#ce3440;text-decoration:none;font-size:18px;margin:0;margin-bottom:6px;display:block;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><font color="#ce3440;">Internal Redirects
+</font></a>
+                                    <font size="3">Internal links are set to 301/302-redirects. This will likely cause part of the link's strength to go to waste.</font>
+                                </td>
+                                <td style="width:30%" align="right">
+                                    <br>
+                                    <table cellpadding="4" width="140" align="right" bgcolor="#ce3440" cellspacing="2" border="0">
+                                        <tbody><tr>
+                                            <td align="center" style="line-height:26px;">
+                                                <a style="text-decoration: none;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><center><font size="3" color="#ffffff">Show errors</font></center></a>
+                                            </td>
+                                        </tr>
+                                        </tbody></table>
+                                </td>
+                            </tr>
+                            </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>
+        </td></tr></tbody></table>
+    </td>
+</tr>
+                <tr>
+                    <td>
+                        <table width="100%" style="background:#f2f2f2;width:100%;" cellspacing="0"
+                               cellpadding="0">
+                            <tbody>
+                            <tr>
+                                <td style="padding-bottom:4px;padding-right:4px;">
+                                    <table width="100%" bgcolor="#ffffff"
+                                           cellpadding="10" cellspacing="5"
+                                           style="border:solid 1px #dddddd;border-collapse:collapse;background:#ffffff;width:100%;">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <table width="100%" style="margin-left:10px;margin-right:10px;width:100%;">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="width:70%;line-height:21px;">
+                                                            <a style="color:#cccccc;text-decoration:none;font-size:18px;margin:0;margin-bottom:6px;display:block;"
+                                                               href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031"><font
+                                                                    color="#cccccc">You can see more errors in the free report.</font></a>
+                                                            <font size="3"
+                                                                  color="#cccccc">Just click on the button below, to view the entire report with all errors.</font>
+                                                        </td>
+                                                        <td style="width:30%"
+                                                            align="right">
+                                                            &nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+
+            <br>
+
+            <center>
+                <table cellpadding="4" width="310" align="center"
+                       bgcolor="#79b426" cellspacing="2" border="0">
+                    <tbody>
+                    <tr>
+                        <td align="center" style="line-height:26px;">
+                            <a style="text-decoration: none;" href="http://optimizr.com/welcome-to-optimizr/8aa5MTcwOTI17031">
+                                <center><font size="4" color="#ffffff">Show complete report for free</font>
+                                </center>
+                            </a>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </center>
+
+            <br>
+
+            <center>
+                There are <font color="#ce3440"><b>297 issues</b></font> problems waiting for you in your free report.
+            </center>
+
+            <br>
+
+            Best regards,<br>
+            Your Optimizr-Team
+
+        </td>
+    </tr>
+    </tbody>
+</table>
+                                                    <table width="680" style="width:680px;" align="center" border="0" cellpadding="5" cellspacing="0">
+                                                        <tbody>
+                                                        <tr>
+                                                            <td align="center">
+                                                                <center>
+                                                                    <a href="http://optimizr.com/optimizr/cancel_mails/code/8aa5MTcwOTI17031" style="text-decoration: none;"><font size="2" color="#878787" style="font-size:12px;">I do not want to receive more e-mails</font></a>
+                                                                </center>
+                                                            </td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                    </td>
+
+                                </tr>
+                                </tbody>
+                            </table>
+
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+
+
+                <table width="720" style="width:720px;" align="center" border="0" cellpadding="5" cellspacing="12">
+                    <tbody>
+                    <tr>
+                        <td align="center">
+                            <center><font size="2" color="#878787" style="font-size:12px;">© Copyright 2014
+                                Optimizr.com</font></center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <center>
+                                <a href="http://optimizr.com/"><img align="center"
+                                                                    src="cid:optimizr-email-logo-footer-jpg" alt=""
+                                                                    width="209" height="52"></a>
+                            </center>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
+--b1_80cff46cb631f0cb450e2d011670ef2a
+Content-Type: application/octet-stream; name="optimizr-email-logo-footer.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <optimizr-email-logo-footer-jpg>
+Content-Disposition: inline; filename="optimizr-email-logo-footer.jpg"
+
+/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QONaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
+aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
+OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjUtYzAyMSA3OS4xNTU3NzIsIDIwMTQvMDEvMTMtMTk6
+NDQ6MDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5
+OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHht
+bG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0i
+aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1w
+PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9
+InhtcC5kaWQ6ZjQ2NzhmN2EtMTFmOC03NzRjLThhYjUtMWY0OWYxMDg4MWU0IiB4bXBNTTpEb2N1
+bWVudElEPSJ4bXAuZGlkOjUyOTA1MTNGMTI3ODExRTQ4NkY5QUU5RkUwODMzMDU5IiB4bXBNTTpJ
+bnN0YW5jZUlEPSJ4bXAuaWlkOjUyOTA1MTNFMTI3ODExRTQ4NkY5QUU5RkUwODMzMDU5IiB4bXA6
+Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0IChXaW5kb3dzKSI+IDx4bXBNTTpE
+ZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjdlZmY3MDhkLTdkOTgtZmE0Ni04
+ODgzLTQ2Yzg4ZmU4ZjdkNSIgc3RSZWY6ZG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9w
+OjQ4ZDE4OWNmLTEyNmItMTFlNC05ODkyLTlmMjI1ZmY4NDI0MyIvPiA8L3JkZjpEZXNjcmlwdGlv
+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
+gMBgMBgMBgMBgMBgMBgMBgMBgMD/2Q==
+
+
+--b1_80cff46cb631f0cb450e2d011670ef2a
+Content-Type: application/octet-stream; name="optimizr-email-logo.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <optimizr-email-logo-jpg>
+Content-Disposition: inline; filename="optimizr-email-logo.jpg"
+
+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
+APbP/maVFNu30e2zH/xU5lmO81PDb4ewwRNmx20/m+1cfi9JwB0X9q52W/HZfc7GwaKq/UdZa1u5
+xtse5raqt3sT1/WPqlXQrOgMNX7PtDg8Fn6T3u9V0Wbv3v5CM7639fc+9z7abBkua99b6GPY17GC
+hl1Fb5bTb6TUUOpj/Ujp1mRfhv6rb9swH41GeyvHBY23LLWY/oPfYxzqW2O22Pemr+pPTbraaaOs
+ufblWZGNjh2K5odkYu85DXu9R3p0N9NZVn1u+sFjaRZkMcaLK7t/pND7H0f0d2ZY2HZPpIdP1l6z
+RbRdVawWYt1+TS41gxblbvtTnD85r/VfsZ/g0tVaP//R41LsucSUi16PskucSSU9GkucSSU9E76J
++BXa/Wr/AMR3S/jjf+eXryhJA9FPRpLnEkVPRpLnEklPRpLnEklPRpLnEklPRpLnEklPRpLnEklP
+/9n/7RSiUGhvdG9zaG9wIDMuMAA4QklNBCUAAAAAABAAAAAAAAAAAAAAAAAAAAAAOEJJTQQ6AAAA
+AADxAAAAEAAAAAEAAAAAAAtwcmludE91dHB1dAAAAAUAAAAAUHN0U2Jvb2wBAAAAAEludGVlbnVt
+AAAAAEludGUAAAAAQ2xybQAAAA9wcmludFNpeHRlZW5CaXRib29sAAAAAAtwcmludGVyTmFtZVRF
+WFQAAAABAAAAAAAPcHJpbnRQcm9vZlNldHVwT2JqYwAAABIAUAByAG8AbwBmAC0ARQBpAG4AcwB0
+AGUAbABsAHUAbgBnAAAAAAAKcHJvb2ZTZXR1cAAAAAEAAAAAQmx0bmVudW0AAAAMYnVpbHRpblBy
+b29mAAAACXByb29mQ01ZSwA4QklNBDsAAAAAAi0AAAAQAAAAAQAAAAAAEnByaW50T3V0cHV0T3B0
+aW9ucwAAABcAAAAAQ3B0bmJvb2wAAAAAAENsYnJib29sAAAAAABSZ3NNYm9vbAAAAAAAQ3JuQ2Jv
+b2wAAAAAAENudENib29sAAAAAABMYmxzYm9vbAAAAAAATmd0dmJvb2wAAAAAAEVtbERib29sAAAA
+AABJbnRyYm9vbAAAAAAAQmNrZ09iamMAAAABAAAAAAAAUkdCQwAAAAMAAAAAUmQgIGRvdWJAb+AA
+AAAAAAAAAABHcm4gZG91YkBv4AAAAAAAAAAAAEJsICBkb3ViQG/gAAAAAAAAAAAAQnJkVFVudEYj
+Umx0AAAAAAAAAAAAAAAAQmxkIFVudEYjUmx0AAAAAAAAAAAAAAAAUnNsdFVudEYjUHhsQFIAAAAA
+AAAAAAAKdmVjdG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0
+VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNA
+WQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAA
+AAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3Jv
+cFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAASAAAAAEAAgBIAAAAAQACOEJJTQQmAAAAAAAO
+AAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAB4OEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAA
+CQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAG
+AAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAA
+AAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA////////////////
+/////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////
+////////////A+gAADhCSU0EAAAAAAAAAgAtOEJJTQQCAAAAAABeAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAADhCSU0EMAAAAAAALwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBADhCSU0ELQAAAAAABgABAAAABThCSU0ECAAAAAAAEAAAAAEA
+AAJAAAACQAAAAAA4QklNBB4AAAAAAAQAAAAAOEJJTQQaAAAAAANVAAAABgAAAAAAAAAAAAAAJAAA
+AK8AAAAQAGUAbQBhAGkAbAAtAHAAcgBvAGcAcgBlAHMAcwAwADMAAAABAAAAAAAAAAAAAAAAAAAA
+AAAAAAEAAAAAAAAAAAAAAK8AAAAkAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+EAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRv
+cCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAAkAAAAAFJnaHRsb25nAAAA
+rwAAAAZzbGljZXNWbExzAAAAAU9iamMAAAABAAAAAAAFc2xpY2UAAAASAAAAB3NsaWNlSURsb25n
+AAAAAAAAAAdncm91cElEbG9uZwAAAAAAAAAGb3JpZ2luZW51bQAAAAxFU2xpY2VPcmlnaW4AAAAN
+YXV0b0dlbmVyYXRlZAAAAABUeXBlZW51bQAAAApFU2xpY2VUeXBlAAAAAEltZyAAAAAGYm91bmRz
+T2JqYwAAAAEAAAAAAABSY3QxAAAABAAAAABUb3AgbG9uZwAAAAAAAAAATGVmdGxvbmcAAAAAAAAA
+AEJ0b21sb25nAAAAJAAAAABSZ2h0bG9uZwAAAK8AAAADdXJsVEVYVAAAAAEAAAAAAABudWxsVEVY
+VAAAAAEAAAAAAABNc2dlVEVYVAAAAAEAAAAAAAZhbHRUYWdURVhUAAAAAQAAAAAADmNlbGxUZXh0
+SXNIVE1MYm9vbAEAAAAIY2VsbFRleHRURVhUAAAAAQAAAAAACWhvcnpBbGlnbmVudW0AAAAPRVNs
+aWNlSG9yekFsaWduAAAAB2RlZmF1bHQAAAAJdmVydEFsaWduZW51bQAAAA9FU2xpY2VWZXJ0QWxp
+Z24AAAAHZGVmYXVsdAAAAAtiZ0NvbG9yVHlwZWVudW0AAAARRVNsaWNlQkdDb2xvclR5cGUAAAAA
+Tm9uZQAAAAl0b3BPdXRzZXRsb25nAAAAAAAAAApsZWZ0T3V0c2V0bG9uZwAAAAAAAAAMYm90dG9t
+T3V0c2V0bG9uZwAAAAAAAAALcmlnaHRPdXRzZXRsb25nAAAAAAA4QklNBCgAAAAAAAwAAAACP/AA
+AAAAAAA4QklNBBQAAAAAAAQAAAA5OEJJTQQMAAAAAArmAAAAAQAAAKAAAAAhAAAB4AAAPeAAAArK
+ABgAAf/Y/+0ADEFkb2JlX0NNAAH/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEV
+DwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAO
+DhAUDg4OFBQODg4OFBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/
+wAARCAAhAKADASIAAhEBAxEB/90ABAAK/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoL
+AQABBQEBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVB
+UWETInGBMgYUkaGxQiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOE
+w9N14/NGJ5SkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQF
+BgcHBgU1AQACEQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1
+wtJEk1SjF2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eX
+p7fH/9oADAMBAAIRAxEAPwDG+rH1XzvrHmGmk+hiUwcnKIkNniqpv597/wDwNdfTh/Uj6sdWycDq
+jcays11XY12S317Wkj0sjHu9tmz6NWVV+jZ/SLf9GqNFnTOh/UqjqXT8xtPXfTDz6FrS57r3fzWZ
+iu9Su9lFb/8AC0+pR6X6L0lyXTumZPVMi55urorZ+lzeoZb9tbN7trX32v8AdZdfZ7Kq/p2vT91r
+3HX6fqT1F2HV06mgi7dbbbgNAvLGeyvFxqKR+ky8vIcxn6Wv9DjV5V9vpbFyfUcGnodb6tpyc+x7
+qnXuAdTiADf9ja9n6HJ6x6Lmfa7G/oMP/Ae/9KutyWdB+pjMfpPTrQOs9TdXXk9UeGmymh7gy3LM
++ypv/cWj+b/w13rel+kufWqn6tO+p93TcHKxicJovxmNuY55sYfUsd9Nz7b7913qP+nbZagEvlqu
+YvRus5tIvw+n5ORQfo211OLT/Udpv/sK79Tuk0dY+seJh5Ld+MN11zDw5tY3Nrd/IfYWb12H1x+v
+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
+5xJJT0aS5xJJT0aS5xJJT0aS5xJJT0aS5xJJT//ZOEJJTQQhAAAAAABdAAAAAQEAAAAPAEEAZABv
+AGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwAAAAFwBBAGQAbwBiAGUAIABQAGgAbwB0AG8AcwBoAG8A
+cAAgAEMAQwAgADIAMAAxADQAAAABADhCSU0EBgAAAAAABwAIAAAAAQEA/+Ebf2h0dHA6Ly9ucy5h
+ZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpy
+ZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0
+az0iQWRvYmUgWE1QIENvcmUgNS41LWMwMjEgNzkuMTU1NzcyLCAyMDE0LzAxLzEzLTE5OjQ0OjAw
+ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIv
+MjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4
+bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDov
+L25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9k
+Yy9lbGVtZW50cy8xLjEvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4w
+L21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNv
+dXJjZUV2ZW50IyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlw
+ZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQg
+KFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAxNC0wNy0yM1QxNDo1MTowOSswMjowMCIgeG1w
+Ok1ldGFkYXRhRGF0ZT0iMjAxNC0wNy0yM1QxNTo1Nzo0NCswMjowMCIgeG1wOk1vZGlmeURhdGU9
+IjIwMTQtMDctMjNUMTU6NTc6NDQrMDI6MDAiIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rv
+c2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgZGM6Zm9ybWF0PSJpbWFnZS9qcGVn
+IiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmJiYTBhMGE1LWQ5OTktMzg0MS05MGMzLTg2YmZi
+MGYyYmFlZSIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjQ1MDBlY2I2
+LTEyNzEtMTFlNC05ODkyLTlmMjI1ZmY4NDI0MyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4
+bXAuZGlkOmY0Njc4ZjdhLTExZjgtNzc0Yy04YWI1LTFmNDlmMTA4ODFlNCI+IDxwaG90b3Nob3A6
+VGV4dExheWVycz4gPHJkZjpCYWc+IDxyZGY6bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iwqkgMjAx
+NCBPcHRpbWl6ci5jb20gICAtICAgQWxsZSBSZWNodGUgdm9yYmVoYWx0ZW4uIiBwaG90b3Nob3A6
+TGF5ZXJUZXh0PSLCqSAyMDE0IE9wdGltaXpyLmNvbSAgIC0gICBBbGxlIFJlY2h0ZSB2b3JiZWhh
+bHRlbi4iLz4gPHJkZjpsaSBwaG90b3Nob3A6TGF5ZXJOYW1lPSJIYWxsbywgIHdpciBoYWJlbiBn
+ZXJhZGUgRGVpbmUgU2VpdGUgYWxtYXNlZGVyZmFocnVuZ2VuLm9yZyBuYWMiIHBob3Rvc2hvcDpM
+YXllclRleHQ9IkhhbGxvLCAgd2lyIGhhYmVuIGdlcmFkZSBEZWluZSBTZWl0ZSBhbG1hc2VkZXJm
+YWhydW5nZW4ub3JnIG5hY2ggYmVrYW5udGVuIEZlaGxlcm4gZ2VwcsO8ZnQuIFVuc2VyIENyYXds
+ZXIgZmFuZCBkYWJlaSAxLjU3NyBQcm9ibGVtZS4gIERpZXNlIHNpbmQgdW50ZXIgYW5kZXJlbTog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRnJldW5kbGljaGUgR3LDvMOfZSwgRGVpbiBP
+cHRpbWl6ciBUZWFtIi8+IDxyZGY6bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iRXMgd2FydGVuIHdl
+aXRlcmUgMS41NzQgUHJvYmxlbWUgd2VpdGVyZSBGZWhsZXIgaW0ga29zdGVubG9zZW4gIiBwaG90
+b3Nob3A6TGF5ZXJUZXh0PSJFcyB3YXJ0ZW4gd2VpdGVyZSAxLjU3NCBQcm9ibGVtZSB3ZWl0ZXJl
+IEZlaGxlciBpbSBrb3N0ZW5sb3NlbiBSZXBvcnQgYXVmIFNpZS4iLz4gPHJkZjpsaSBwaG90b3No
+b3A6TGF5ZXJOYW1lPSI0MDQtU2VpdGUgZmVobGVyaGFmdCBVbSBlaW5lbiB2b2xsc3TDpG5kaWdl
+biB1bmQga29zdGVubG9zZW4gUmVwIiBwaG90b3Nob3A6TGF5ZXJUZXh0PSI0MDQtU2VpdGUgZmVo
+bGVyaGFmdCBVbSBlaW5lbiB2b2xsc3TDpG5kaWdlbiB1bmQga29zdGVubG9zZW4gUmVwb3J0IHp1
+IGVyaGFsdGVuIG1pdCBhbGxlbiBnZWZ1bmRlbmVuIFByb2JsZW1lbiwga2xpY2tlIGF1ZiBkZW4g
+Zm9sZ2VuZGVuIEJ1dHRvbi4iLz4gPHJkZjpsaSBwaG90b3Nob3A6TGF5ZXJOYW1lPSJCaWxkIG5p
+Y2h0IGdlZnVuZGVuIFVtIGVpbmVuIHZvbGxzdMOkbmRpZ2VuIHVuZCBrb3N0ZW5sb3NlbiBSZXBv
+IiBwaG90b3Nob3A6TGF5ZXJUZXh0PSJCaWxkIG5pY2h0IGdlZnVuZGVuIFVtIGVpbmVuIHZvbGxz
+dMOkbmRpZ2VuIHVuZCBrb3N0ZW5sb3NlbiBSZXBvcnQgenUgZXJoYWx0ZW4gbWl0IGFsbGVuIGdl
+ZnVuZGVuZW4gUHJvYmxlbWVuLCBrbGlja2UgYXVmIGRlbiBmb2xnZW5kZW4gQnV0dG9uLiIvPiA8
+cmRmOmxpIHBob3Rvc2hvcDpMYXllck5hbWU9IlNlcnZlcmZlaGxlciBVbSBlaW5lbiB2b2xsc3TD
+pG5kaWdlbiB1bmQga29zdGVubG9zZW4gUmVwb3J0IHp1IGUiIHBob3Rvc2hvcDpMYXllclRleHQ9
+IlNlcnZlcmZlaGxlciBVbSBlaW5lbiB2b2xsc3TDpG5kaWdlbiB1bmQga29zdGVubG9zZW4gUmVw
+b3J0IHp1IGVyaGFsdGVuIG1pdCBhbGxlbiBnZWZ1bmRlbmVuIFByb2JsZW1lbiwga2xpY2tlIGF1
+ZiBkZW4gZm9sZ2VuZGVuIEJ1dHRvbi4iLz4gPHJkZjpsaSBwaG90b3Nob3A6TGF5ZXJOYW1lPSJX
+ZWl0ZXJlIEZlaGxlciBiZWZpbmRlbiBzaWNoIGluIHVuc2VyZW0ga29zdGVubG9zZW4gUmVwb3J0
+IFVtIGUiIHBob3Rvc2hvcDpMYXllclRleHQ9IldlaXRlcmUgRmVobGVyIGJlZmluZGVuIHNpY2gg
+aW4gdW5zZXJlbSBrb3N0ZW5sb3NlbiBSZXBvcnQgVW0gZWluZW4gdm9sbHN0w6RuZGlnZW4gdW5k
+IGtvc3Rlbmxvc2VuIFJlcG9ydCB6dSBlcmhhbHRlbiBtaXQgYWxsZW4gZ2VmdW5kZW5lbiBQcm9i
+bGVtZW4sIGtsaWNrZSBhdWYgZGVuIGZvbGdlbmRlbiBCdXR0b24uIi8+IDxyZGY6bGkgcGhvdG9z
+aG9wOkxheWVyTmFtZT0iRWJlbmUgNyIgcGhvdG9zaG9wOkxheWVyVGV4dD0iIi8+IDxyZGY6bGkg
+cGhvdG9zaG9wOkxheWVyTmFtZT0iRmVobGVyIGFuc2VoZW4iIHBob3Rvc2hvcDpMYXllclRleHQ9
+IkZlaGxlciBhbnNlaGVuIi8+IDxyZGY6bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iSmV0enQga29z
+dGVubG9zZW4gUmVwb3J0IGFuc2VoZW4iIHBob3Rvc2hvcDpMYXllclRleHQ9IkpldHp0IGtvc3Rl
+bmxvc2VuIFJlcG9ydCBhbnNlaGVuIi8+IDxyZGY6bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iRmVo
+bGVyIGFuc2VoZW4iIHBob3Rvc2hvcDpMYXllclRleHQ9IkZlaGxlciBhbnNlaGVuIi8+IDxyZGY6
+bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iRmVobGVyIGFuc2VoZW4iIHBob3Rvc2hvcDpMYXllclRl
+eHQ9IkZlaGxlciBhbnNlaGVuIi8+IDxyZGY6bGkgcGhvdG9zaG9wOkxheWVyTmFtZT0iYWxtYXNl
+ZGVyZmFocnVuZ2VuLm9yZyIgcGhvdG9zaG9wOkxheWVyVGV4dD0iYWxtYXNlZGVyZmFocnVuZ2Vu
+Lm9yZyIvPiA8L3JkZjpCYWc+IDwvcGhvdG9zaG9wOlRleHRMYXllcnM+IDxwaG90b3Nob3A6RG9j
+dW1lbnRBbmNlc3RvcnM+IDxyZGY6QmFnPiA8cmRmOmxpPnhtcC5kaWQ6YmY5NzJiNjYtODM5Zi05
+ODRkLTgzZjktMzdlZGQyZTZjZDhjPC9yZGY6bGk+IDwvcmRmOkJhZz4gPC9waG90b3Nob3A6RG9j
+dW1lbnRBbmNlc3RvcnM+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDph
+Y3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6ZjQ2NzhmN2EtMTFmOC03
+NzRjLThhYjUtMWY0OWYxMDg4MWU0IiBzdEV2dDp3aGVuPSIyMDE0LTA3LTIzVDE0OjUxOjA5KzAy
+OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoV2luZG93
+cykiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAu
+aWlkOmFmZjMwZDgzLTQ4YjUtNjU0Zi1hNWIwLTRlNzYwNGMwNzRhOSIgc3RFdnQ6d2hlbj0iMjAx
+NC0wNy0yM1QxNDo1NjoxNiswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9z
+aG9wIENDIDIwMTQgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDxyZGY6bGkgc3RFdnQ6
+YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDplMzQxNzMxZi02ZDA4LTVm
+NDMtYWMyYi1mN2ZmNGRiZTQ1YjciIHN0RXZ0OndoZW49IjIwMTQtMDctMjNUMTU6NTc6NDQrMDI6
+MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0IChXaW5kb3dz
+KSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY29udmVydGVkIiBz
+dEV2dDpwYXJhbWV0ZXJzPSJmcm9tIGFwcGxpY2F0aW9uL3ZuZC5hZG9iZS5waG90b3Nob3AgdG8g
+aW1hZ2UvanBlZyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iZGVyaXZlZCIgc3RFdnQ6cGFyYW1l
+dGVycz0iY29udmVydGVkIGZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBp
+bWFnZS9qcGVnIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJ
+RD0ieG1wLmlpZDpiYmEwYTBhNS1kOTk5LTM4NDEtOTBjMy04NmJmYjBmMmJhZWUiIHN0RXZ0Ondo
+ZW49IjIwMTQtMDctMjNUMTU6NTc6NDQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2Jl
+IFBob3Rvc2hvcCBDQyAyMDE0IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpT
+ZXE+IDwveG1wTU06SGlzdG9yeT4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9
+InhtcC5paWQ6ZTM0MTczMWYtNmQwOC01ZjQzLWFjMmItZjdmZjRkYmU0NWI3IiBzdFJlZjpkb2N1
+bWVudElEPSJ4bXAuZGlkOmY0Njc4ZjdhLTExZjgtNzc0Yy04YWI1LTFmNDlmMTA4ODFlNCIgc3RS
+ZWY6b3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmY0Njc4ZjdhLTExZjgtNzc0Yy04YWI1LTFm
+NDlmMTA4ODFlNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4g
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hw
+YWNrZXQgZW5kPSJ3Ij8+/+IMWElDQ19QUk9GSUxFAAEBAAAMSExpbm8CEAAAbW50clJHQiBYWVog
+B84AAgAJAAYAMQAAYWNzcE1TRlQAAAAASUVDIHNSR0IAAAAAAAAAAAAAAAEAAPbWAAEAAAAA0y1I
+UCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARY3BydAAA
+AVAAAAAzZGVzYwAAAYQAAABsd3RwdAAAAfAAAAAUYmtwdAAAAgQAAAAUclhZWgAAAhgAAAAUZ1hZ
+WgAAAiwAAAAUYlhZWgAAAkAAAAAUZG1uZAAAAlQAAABwZG1kZAAAAsQAAACIdnVlZAAAA0wAAACG
+dmlldwAAA9QAAAAkbHVtaQAAA/gAAAAUbWVhcwAABAwAAAAkdGVjaAAABDAAAAAMclRSQwAABDwA
+AAgMZ1RSQwAABDwAAAgMYlRSQwAABDwAAAgMdGV4dAAAAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3
+bGV0dC1QYWNrYXJkIENvbXBhbnkAAGRlc2MAAAAAAAAAEnNSR0IgSUVDNjE5NjYtMi4xAAAAAAAA
+AAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAADzUQABAAAAARbMWFlaIAAAAAAAAAAAAAAAAAAAAABY
+WVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAA
+ts9kZXNjAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAABZJRUMgaHR0cDov
+L3d3dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdC
+AAAAAAAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRp
+dGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAACxSZWZlcmVuY2UgVmlld2luZyBDb25kaXRp
+b24gaW4gSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2aWV3AAAAAAATpP4A
+FF8uABDPFAAD7cwABBMLAANcngAAAAFYWVogAAAAAABMCVYAUAAAAFcf521lYXMAAAAAAAAAAQAA
+AAAAAAAAAAAAAAAAAAAAAAKPAAAAAnNpZyAAAAAAQ1JUIGN1cnYAAAAAAAAEAAAAAAUACgAPABQA
+GQAeACMAKAAtADIANwA7AEAARQBKAE8AVABZAF4AYwBoAG0AcgB3AHwAgQCGAIsAkACVAJoAnwCk
+AKkArgCyALcAvADBAMYAywDQANUA2wDgAOUA6wDwAPYA+wEBAQcBDQETARkBHwElASsBMgE4AT4B
+RQFMAVIBWQFgAWcBbgF1AXwBgwGLAZIBmgGhAakBsQG5AcEByQHRAdkB4QHpAfIB+gIDAgwCFAId
+AiYCLwI4AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYCwQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgD
+QwNPA1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD+QQGBBMEIAQtBDsESARVBGMEcQR+BIwEmgSo
+BLYExATTBOEE8AT+BQ0FHAUrBToFSQVYBWcFdwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZIBlkG
+agZ7BowGnQavBsAG0QbjBvUHBwcZBysHPQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgyCEYIWghu
+CIIIlgiqCL4I0gjnCPsJEAklCToJTwlkCXkJjwmkCboJzwnlCfsKEQonCj0KVApqCoEKmAquCsUK
+3ArzCwsLIgs5C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxcDHUMjgynDMAM2QzzDQ0NJg1ADVoNdA2O
+DakNww3eDfgOEw4uDkkOZA5/DpsOtg7SDu4PCQ8lD0EPXg96D5YPsw/PD+wQCRAmEEMQYRB+EJsQ
+uRDXEPURExExEU8RbRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMDEyMTQxNjE4MTpBPFE+UUBhQn
+FEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaPFrIW1hb6Fx0XQRdlF4kXrhfSF/cY
+GxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3Gp4axRrsGxQbOxtjG4obshvaHAIcKhxS
+HHscoxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+HukfEx8+H2kflB+/H+ogFSBBIGwgmCDEIPAh
+HCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNmI5QjwiPwJB8kTSR8JKsk2iUJJTglaCWXJccl9yYn
+Jlcmhya3JugnGCdJJ3onqyfcKA0oPyhxKKIo1CkGKTgpaymdKdAqAio1KmgqmyrPKwIrNitpK50r
+0SwFLDksbiyiLNctDC1BLXYtqy3hLhYuTC6CLrcu7i8kL1ovkS/HL/4wNTBsMKQw2zESMUoxgjG6
+MfIyKjJjMpsy1DMNM0YzfzO4M/E0KzRlNJ402DUTNU01hzXCNf02NzZyNq426TckN2A3nDfXOBQ4
+UDiMOMg5BTlCOX85vDn5OjY6dDqyOu87LTtrO6o76DwnPGU8pDzjPSI9YT2hPeA+ID5gPqA+4D8h
+P2E/oj/iQCNAZECmQOdBKUFqQaxB7kIwQnJCtUL3QzpDfUPARANER0SKRM5FEkVVRZpF3kYiRmdG
+q0bwRzVHe0fASAVIS0iRSNdJHUljSalJ8Eo3Sn1KxEsMS1NLmkviTCpMcky6TQJNSk2TTdxOJU5u
+TrdPAE9JT5NP3VAnUHFQu1EGUVBRm1HmUjFSfFLHUxNTX1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW
+91dEV5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0VblVvlXDVchlzWXSddeF3JXhpebF69Xw9fYV+z
+YAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tkQGSUZOllPWWSZedmPWaSZuhnPWeTZ+loP2iWaOxp
+Q2maafFqSGqfavdrT2una/9sV2yvbQhtYG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHwcktypnMB
+c11zuHQUdHB0zHUodYV14XY+dpt2+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vCfCF8gXzhfUF9
+oX4BfmJ+wn8jf4R/5YBHgKiBCoFrgc2CMIKSgvSDV4O6hB2EgITjhUeFq4YOhnKG14c7h5+IBIhp
+iM6JM4mZif6KZIrKizCLlov8jGOMyo0xjZiN/45mjs6PNo+ekAaQbpDWkT+RqJIRknqS45NNk7aU
+IJSKlPSVX5XJljSWn5cKl3WX4JhMmLiZJJmQmfyaaJrVm0Kbr5wcnImc951kndKeQJ6unx2fi5/6
+oGmg2KFHobaiJqKWowajdqPmpFakx6U4pammGqaLpv2nbqfgqFKoxKk3qamqHKqPqwKrdavprFys
+0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LCszizrrQltJy1E7WKtgG2ebbwt2i34LhZuNG5SrnC
+uju6tbsuu6e8IbybvRW9j74KvoS+/796v/XAcMDswWfB48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HH
+v8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42zrbPN8+40DnQutE80b7SP9LB00TTxtRJ1MvVTtXR
+1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF3IrdEN2W3hzeot8p36/gNuC94UThzOJT4tvjY+Pr5HPk
+/OWE5g3mlucf56noMui86Ubp0Opb6uXrcOv77IbtEe2c7ijutO9A78zwWPDl8XLx//KM8xnzp/Q0
+9ML1UPXe9m32+/eK+Bn4qPk4+cf6V/rn+3f8B/yY/Sn9uv5L/tz/bf///+4ADkFkb2JlAGRAAAAA
+Af/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgIC
+AgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAJACvAwERAAIRAQMRAf/dAAQAFv/EAaIAAAAGAgMB
+AAAAAAAAAAAAAAcIBgUECQMKAgEACwEAAAYDAQEBAAAAAAAAAAAABgUEAwcCCAEJAAoLEAACAQME
+AQMDAgMDAwIGCXUBAgMEEQUSBiEHEyIACDEUQTIjFQlRQhZhJDMXUnGBGGKRJUOhsfAmNHIKGcHR
+NSfhUzaC8ZKiRFRzRUY3R2MoVVZXGrLC0uLyZIN0k4Rlo7PD0+MpOGbzdSo5OkhJSlhZWmdoaWp2
+d3h5eoWGh4iJipSVlpeYmZqkpaanqKmqtLW2t7i5usTFxsfIycrU1dbX2Nna5OXm5+jp6vT19vf4
++foRAAIBAwIEBAMFBAQEBgYFbQECAxEEIRIFMQYAIhNBUQcyYRRxCEKBI5EVUqFiFjMJsSTB0UNy
+8BfhgjQlklMYY0TxorImNRlUNkVkJwpzg5NGdMLS4vJVZXVWN4SFo7PD0+PzKRqUpLTE1OT0laW1
+xdXl9ShHV2Y4doaWprbG1ub2Z3eHl6e3x9fn90hYaHiImKi4yNjo+DlJWWl5iZmpucnZ6fkqOkpa
+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
+OvfUJ9N4NDqp/l6U5/nJ/FzI/wAsPoD4L7i6q7SzO5Ot6voGPfVTWY7adRsfcuD617Y29vTemKgE
+ufNfV0ue25jKilhjmpo1keYLIVTU3vX0cv1Uk4YUNafmKDrf1KeAkRU1FP5HqyvsT/hR/wDyz+2t
+nRdddm/Evt3fmwaeoxlTBs3dGy+rMvtiObCf8WaRMHWbwkxy/wAMsDTr49MJA0gWFky7bcodSygN
++fTzXkLDS0ZI/Lqqruz+Z9/LyynzG+CfyD+NvxZzfR+z/jl2DnN2dt4zb2w+u9q5zeVDV/wr+DQ4
+yn2zmTRZOpxppagj7uaEKJrKeT7VJa3Ahnjkl1FhjJx0y08PiROkdADnpg+fH8zf4Q/M35az/IrN
+9Q955Gh2Z8XaXZfStDLktu7aq9ufI7b2+dxbs2lu/dlLQZrIU+c67pYsnAlVSCVp5irgR/pPvcFt
+PDD4Ydals/6Wn+HrUs8csmsqaBcfbX/B09VH81z4JL8kNx/Maj+NvyOHePyG2lnut/lLtiXtHZv+
+i5Nkb72FFsnf0/UH+4Zt20u4qtqKlqaBq+riggEJSyByRr6SfwhD4q6FNVxmoNRXrf1EWsyaG1MK
+HOPy6Ypf5s3xZ2J1zk/jr0n0j3Tj+hNs/CX5JfGrrCv7A3Ls3O9nVnYfyM3Zit05veO+KvGRY7B0
++1cbNjPGlJjwZG1lhGttPvf0krMJHdfELgmnCg8h1r6iMDQqnRpIHrU9JlP5tPTS19bWHqzskiq/
+lLYz+XqoFftryL2HQDIBt8sTWf8AHlN94LRX+99J9H097+kf+Mf2uv8AL0+3rX1C/wAJ/s9PX//T
+1p/Yx6DnRg/j3/s0/wDeh/8AZV/9PX98Lw+f/QP/AH+/jtr/ALX3n9w/8r8N/wDjr6Lf4e25PCp+
+rpp86f5erprr+nWvy6Mx8hP+HXf7qSf7Mx/s8v8AcTwP91/pP/0z/wBzPBpGv+I/xf8A3Afo+vn5
+t/h7bj+lr+no1fKnV38enfqp869Vye1HTPXvfuvde9+691737r3Vpv8AJS/jP/Dn/wATf7vfwn+M
+/wB8dy/Yfxz73+F+X/R7u/X91/D/APK7eLVp0f27X9N/aW9p9LLXhT/L0otq+PHTo3X/AApS/vV/
+w4hiP74/3d/jX+y7daa/7sfxT+G/b/3h394b/wAX/wAp+41atVvRp0/m/tnbafTmnDUf8nV72vjC
+vGg61+PZh0k697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
+/de6/9k=
+
+
+--b1_80cff46cb631f0cb450e2d011670ef2a--

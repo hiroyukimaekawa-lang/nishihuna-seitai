@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* 表示用CSSの指定 */
+@import "/css/common.css";
+@import "/css/menu.css";
+@import "../style/00/00_base.css";
+@import "../style/00/00.css";
+@import "/css/content_o.css";
+@import "/css/content_g.css";
+

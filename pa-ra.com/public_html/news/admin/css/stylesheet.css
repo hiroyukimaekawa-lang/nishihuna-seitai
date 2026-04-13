@@ -1,0 +1,307 @@
+
+@charset 'UTF-8';
+
+/*-----------------------------------------------
+    Browser Reset
+-----------------------------------------------*/
+
+h1,h2,h3,h4,h5,h6,pre,address,em,strong,th,ins {
+    font-size:100%;
+    font-style:normal;
+}
+
+h1,h2,h3,h4,h5,h6,pre,address,ul,ol,li,dl,dt,dd,form,legend,p,sup {
+    margin:0;
+    padding:0;
+}
+
+sup {
+	font-size:65%;
+}
+
+table {
+    border-collapse:collapse;
+    border:0;
+}
+
+th {
+    text-align:left;
+}
+
+input,select,textarea {
+    vertical-align:middle;
+}
+
+img {
+    border:0;
+    vertical-align:middle;
+}
+
+ins, a {
+    text-decoration:none;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+br {
+    letter-spacing: 0;
+}
+
+/*-----------------------------------------------
+    body
+-----------------------------------------------*/
+
+body {
+width:100%;
+height:auto;
+min-width:900px;
+margin:0;
+padding:0;
+}
+
+/*-----------------------------------------------
+    head
+-----------------------------------------------*/
+
+div#head {
+width:100%;
+height:84px;
+background:url(../images/head_bg.gif) 0 0 repeat-x;
+}
+
+div#head h1{
+width:178px;
+height:51px;
+background:url(../images/h1.gif) 0 0 no-repeat;
+text-indent:-9999px;
+position:absolute;
+top:13px;
+left:23px;
+}
+
+div#head p {
+position:absolute;
+top:35px;
+left:220px;
+font-size:60%;
+color:#FFF;
+letter-spacing:1px;
+}
+
+div#head ul {
+width:100px;
+height:40px;
+position:absolute;
+top:22px;
+right:16px;
+}
+
+div#head ul li {
+width:100px;
+height:40px;
+background:url(../images/logout.gif) 0 0 no-repeat;
+text-indent:-9999px;
+}
+
+div#head ul li a {
+width:100px;
+height:40px;
+display:block;
+}
+
+/*-----------------------------------------------
+    container
+-----------------------------------------------*/
+
+div#container {
+width:100%;
+float:right;
+margin-left:-180px;
+}
+
+/*-----------------------------------------------
+    menu
+-----------------------------------------------*/
+
+div#menu {
+width:200px;
+height:auto;
+float:left;
+font-size:80%;
+margin:0 0 0 20px;
+}
+
+div#menu p {
+width:200px;
+height:auto;
+margin:30px 0 0 0;
+font-size:130%;
+color:#888;
+}
+
+div#menu p span {
+font-size:55%;
+}
+
+div#menu h2 {
+width:200px;
+height:29px;
+text-indent:-9999px;
+margin:20px 0 0 0;
+}
+
+div#menu h2#m01 {background:url(../images/menu_title01.gif) 0 0 no-repeat;}
+div#menu h2#m02 {background:url(../images/menu_title02.gif) 0 0 no-repeat;}
+
+div#menu ul {
+width:168px;
+height:auto;
+padding:15px;
+border:#E3E3E3 1px solid;
+line-height:1.8;
+}
+
+/*-----------------------------------------------
+    main
+-----------------------------------------------*/
+
+div#main {
+height:auto;
+position:relative;
+font-size:85%;
+margin:30px 20px 0 250px;
+}
+
+div#main h2 {
+height:31px;
+line-height:1.2;
+font-size:180%;
+font-weight:normal;
+padding:0 0 0 40px;
+color:#1A5DA9;
+}
+
+div#main h2#t01 {background:url(../images/main_title01.gif) 0 0 no-repeat;}
+div#main h2#t02 {background:url(../images/main_title02.gif) 0 0 no-repeat;}
+
+div#main p#preview {
+width:58px;
+height:50px;
+background:url(../images/preview.gif) 0 0 no-repeat;
+text-indent:-9999px;
+position:absolute;
+top:-10px;
+right:0;
+}
+
+div#main p#preview a {
+width:58px;
+height:50px;
+display:block;
+}
+
+div#main table {
+width:100%;
+border-collapse:collapse;
+border-spacing:0;
+font-size:12px;
+margin:20px 0 0 0;
+color:#666;
+}
+
+div#main table input,
+div#main table textarea {
+width:100%;
+}
+
+div#main table input.btn {
+width:auto;
+}
+
+div#main table tr {
+width:100%;
+}
+
+div#main table caption {
+height:29px;
+background:url(../images/table_th_right.gif) right top no-repeat;
+color:#666;
+text-align:left;
+line-height:1;
+}
+
+div#main table caption span {
+height:11px;
+display:block;
+background:url(../images/table_th_left.gif) 0 0 no-repeat;
+padding:9px 15px;
+}
+
+div#main table tr th {
+border:1px solid #E3E3E3;
+background-color:#F8F8F8;
+padding:5px 15px;
+font-weight:normal;
+}
+
+div#main table tr td {
+border:1px solid #E3E3E3;
+line-height:1.8;
+padding:5px 15px 5px 10px;
+}
+
+div#main table tr td form {
+width:auto;
+display:inline;
+}
+
+div#main table tr td#inTable {
+padding:0;
+}
+
+div#main table tr td table {
+width:100%;
+margin:0;
+}
+
+div#main form p {
+width:100%;
+text-align:center;
+margin:30px 0 0 0;
+}
+
+div#main table tr td input#up,
+div#main table tr td input.Submit,
+div#main table tr td input.coupon,
+div#main table tr td label input {
+width:auto;
+}
+
+/*-----------------------------------------------
+    foot
+-----------------------------------------------*/
+
+div#foot{
+width:100%;
+height:30px;
+text-align:center;
+background-color:#AEDDF9;
+border-top:#1E90DF 1px solid;
+color:#1A5DA9;
+font-size:55%;
+margin-top:50px;
+padding-top:20px;
+}
+
+/*-----------------------------------------------
+    便利class
+-----------------------------------------------*/
+
+.center{
+text-align:center;
+}
+.clearB{
+	clear:both;
+}

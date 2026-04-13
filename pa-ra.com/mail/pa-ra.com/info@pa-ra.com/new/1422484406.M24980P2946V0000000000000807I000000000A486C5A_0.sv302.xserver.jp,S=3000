@@ -1,0 +1,79 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id 008B5108023E; Thu, 29 Jan 2015 07:33:26 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:33:26 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1218B108023C.1422484406/sv302.xserver.jp"
+Message-Id: <20150128223326.008B5108023E@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--1218B108023C.1422484406/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<brittsaddo@hotmail.com>: host mx1.hotmail.com[65.55.92.152] said: 550
+    Requested action not taken: mailbox unavailable (in reply to RCPT TO
+    command)
+
+--1218B108023C.1422484406/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 1218B108023C
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:33:25 +0900 (JST)
+
+Final-Recipient: rfc822; brittsaddo@hotmail.com
+Original-Recipient: rfc822;brittsaddo@hotmail.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx1.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1218B108023C.1422484406/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 1218B108023C
+	for <brittsaddo@hotmail.com>; Thu, 29 Jan 2015 07:33:25 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:25 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from georgeda (unknown [109.233.18.186])
+	by sv302.xserver.jp (Postfix) with ESMTP id A35971080250
+	for <brittsaddo@hotmail.com>; Thu, 29 Jan 2015 07:33:00 +0900 (JST)
+From: info@pa-ra.com
+To: brittsaddo@hotmail.com
+Subject: =?UTF-8?Q?Important_alert_for_Britt._BPay_Transaction_?=
+ =?UTF-8?Q?Case_N__84456?=
+Date: Thu, 29 Jan 2015 00:35:00 +0200
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="1BBF9285_17D04951_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223300.A35971080250@sv302.xserver.jp>
+
+--1218B108023C.1422484406/sv302.xserver.jp--

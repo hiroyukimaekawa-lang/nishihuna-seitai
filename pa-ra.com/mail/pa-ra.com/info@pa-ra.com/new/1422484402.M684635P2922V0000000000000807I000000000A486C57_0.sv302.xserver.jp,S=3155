@@ -1,0 +1,80 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id A3D721080241; Thu, 29 Jan 2015 07:33:22 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:33:22 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0DC921080259.1422484402/sv302.xserver.jp"
+Message-Id: <20150128223322.A3D721080241@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--0DC921080259.1422484402/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<kpumphrey@optusnet.com.au>: host extmail.optusnet.com.au[211.29.133.14] said:
+    550 5.1.1 <kpumphrey@optusnet.com.au>: Recipient address rejected: User
+    unknown in virtual mailbox table (in reply to RCPT TO command)
+
+--0DC921080259.1422484402/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 0DC921080259
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:33:22 +0900 (JST)
+
+Final-Recipient: rfc822; kpumphrey@optusnet.com.au
+Original-Recipient: rfc822;kpumphrey@optusnet.com.au
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; extmail.optusnet.com.au
+Diagnostic-Code: smtp; 550 5.1.1 <kpumphrey@optusnet.com.au>: Recipient address
+    rejected: User unknown in virtual mailbox table
+
+--0DC921080259.1422484402/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 0DC921080259
+	for <kpumphrey@optusnet.com.au>; Thu, 29 Jan 2015 07:33:22 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from iverson-PC (unknown [216.249.231.176])
+	by sv302.xserver.jp (Postfix) with ESMTP id 0B0B1108022C
+	for <kpumphrey@optusnet.com.au>; Thu, 29 Jan 2015 07:32:57 +0900 (JST)
+From: info@pa-ra.com
+To: kpumphrey@optusnet.com.au
+Subject: =?UTF-8?Q?Important_notification_for_Pumphrey._?=
+ =?UTF-8?Q?BPay_Transfer_Case_N__67789?=
+Date: Wed, 28 Jan 2015 16:32:56 -0600
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="012FD74B_63C6FAF7_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223258.0B0B1108022C@sv302.xserver.jp>
+
+--0DC921080259.1422484402/sv302.xserver.jp--

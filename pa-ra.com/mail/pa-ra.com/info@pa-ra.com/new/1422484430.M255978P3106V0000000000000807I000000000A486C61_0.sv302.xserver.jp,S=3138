@@ -1,0 +1,80 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id 3A9C01080225; Thu, 29 Jan 2015 07:33:50 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:33:50 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="940D71080214.1422484430/sv302.xserver.jp"
+Message-Id: <20150128223350.3A9C01080225@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--940D71080214.1422484430/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<dtraver@optusnet.com.au>: host extmail.optusnet.com.au[211.29.133.14] said:
+    550 5.1.1 <dtraver@optusnet.com.au>: Recipient address rejected: User
+    unknown in virtual mailbox table (in reply to RCPT TO command)
+
+--940D71080214.1422484430/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 940D71080214
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:33:49 +0900 (JST)
+
+Final-Recipient: rfc822; dtraver@optusnet.com.au
+Original-Recipient: rfc822;dtraver@optusnet.com.au
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; extmail.optusnet.com.au
+Diagnostic-Code: smtp; 550 5.1.1 <dtraver@optusnet.com.au>: Recipient address
+    rejected: User unknown in virtual mailbox table
+
+--940D71080214.1422484430/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 940D71080214
+	for <dtraver@optusnet.com.au>; Thu, 29 Jan 2015 07:33:49 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:49 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from iverson-PC (unknown [216.249.231.176])
+	by sv302.xserver.jp (Postfix) with ESMTP id D7F47108026A
+	for <dtraver@optusnet.com.au>; Thu, 29 Jan 2015 07:33:18 +0900 (JST)
+From: info@pa-ra.com
+To: dtraver@optusnet.com.au
+Subject: =?UTF-8?Q?Important_alert_for_Dominique._BPay_?=
+ =?UTF-8?Q?Transfer_Case_Number__81754?=
+Date: Wed, 28 Jan 2015 16:33:17 -0600
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="013026A2_3E8E0BDE_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223318.D7F47108026A@sv302.xserver.jp>
+
+--940D71080214.1422484430/sv302.xserver.jp--

@@ -1,0 +1,170 @@
+
+@charset 'UTF-8';
+
+/*-----------------------------------------------
+    Browser Reset
+-----------------------------------------------*/
+
+h1,h2,h3,h4,h5,h6,pre,address,em,strong,th,ins {
+    font-size:100%;
+    font-style:normal;
+}
+
+h1,h2,h3,h4,h5,h6,pre,address,ul,ol,li,dl,dt,dd,form,legend,p,sup {
+    margin:0;
+    padding:0;
+}
+
+sup {
+	font-size:65%;
+}
+
+table {
+    border-collapse:collapse;
+    border:0;
+}
+
+th {
+    text-align:left;
+}
+
+input,select,textarea {
+    vertical-align:middle;
+}
+
+img {
+    border:0;
+    vertical-align:middle;
+}
+
+ins, a {
+    text-decoration:none;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+br {
+    letter-spacing: 0;
+}
+
+/*-----------------------------------------------
+    body
+-----------------------------------------------*/
+
+body {
+width:100%;
+height:auto;
+min-width:900px;
+margin:0;
+padding:0;
+background-color:#F9F9F9;
+line-height:1.8;
+}
+
+/*-----------------------------------------------
+    topBar
+-----------------------------------------------*/
+
+div#topBar {
+width:100%;
+height:35px;
+background-color:#AEDDF9;
+border-bottom:#1E90DF 1px solid;
+}
+
+div#topBar h1{
+position:absolute;
+top:10px;
+left:10px;
+font-weight:normal;
+color:#1A5DA9;
+font-size:65%;
+}
+
+/*-----------------------------------------------
+    loginBody
+-----------------------------------------------*/
+
+div#loginBody {
+width:400px;
+height:auto;
+font-size:80%;
+text-align:center;
+margin:50px auto 0 auto;
+}
+
+div#loginBody h2 {
+width:300px;
+height:100px;
+text-indent:-9999px;
+background:url(../images/login_title.gif) 0 0 no-repeat;
+margin:0 0 0 50px;
+}
+
+div#loginBody div {
+width:344px;
+height:123px;
+background:url(../images/login_bg.gif) 0 0 no-repeat;
+margin:30px 0 0 28px;
+padding-top:30px;
+}
+
+div#loginBody div#logout p {
+margin:10px 0 0 0;
+color:#888;
+font-size:120%;
+}
+
+div#loginBody div#logout p a {
+font-size:75%;
+}
+
+div#loginBody div#login p {
+margin:2px 0 0 30px;
+line-height:1;
+color:#888;
+}
+
+div#loginBody div#login form p {
+margin:0;
+}
+
+div#loginBody div#login form p#txtArea input {
+width:280px;
+height:30px;
+font-size:120%;
+background-color:#F9F9F9;
+border:#CCC 1px solid;
+color:#888;
+margin:5px 0 0 0;
+}
+
+div#loginBody div#login form p#btnArea input {
+margin:15px 0 0 0;
+}
+
+/*-----------------------------------------------
+    foot
+-----------------------------------------------*/
+
+div#foot {
+width:auto;
+height:auto;
+font-size:55%;
+color:#AAA;
+text-align:center;
+margin:30px auto 0 auto;
+}
+
+/*-----------------------------------------------
+    便利class
+-----------------------------------------------*/
+
+.alignL{
+text-align:left;
+}
+.clearB{
+	clear:both;
+}

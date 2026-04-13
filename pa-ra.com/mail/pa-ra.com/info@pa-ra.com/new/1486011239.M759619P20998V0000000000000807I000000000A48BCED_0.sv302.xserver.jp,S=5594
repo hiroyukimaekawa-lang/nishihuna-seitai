@@ -1,0 +1,173 @@
+Return-Path: <bounce+recruit2-30-1-info=pa-ra.com@lamp-g.info>
+Delivered-To: info@pa-ra.com
+Received: from virusgw2.xserver.jp (virusgw2.xserver.jp [219.94.203.91])
+	by sv302.xserver.jp (Postfix) with ESMTP id AEC5410803BB
+	for <info@pa-ra.com>; Thu,  2 Feb 2017 13:53:59 +0900 (JST)
+Received: from sv302.xserver.jp (219.94.203.142)
+ by virusgw2.xserver.jp (F-Secure/fsigk_smtp/521/virusgw2.xserver.jp);
+ Thu, 02 Feb 2017 13:53:59 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw2.xserver.jp)
+Received: from lamp-g.info (cq.ptr38.ptrcloud.net [157.7.168.69])
+	by sv302.xserver.jp (Postfix) with ESMTP id A934B108036A
+	for <info@pa-ra.com>; Thu,  2 Feb 2017 13:53:59 +0900 (JST)
+Received: by lamp-g.info (Postfix, from userid 48)
+	id 4785E51211; Thu,  2 Feb 2017 13:53:57 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=lamp-g.info;
+	s=selector; t=1486011239;
+	bh=EAN2DYacjtgBmnOQQPmbh4z1/LfskJXsaNKaZd4Zfro=;
+	h=From:To:Reply-To:List-Unsubscribe:Subject:Content-Type:
+	 Content-Transfer-Encoding:Message-Id:Date;
+	b=GiEoluqJvJWVcEQ3Ml4lqV27HQkl0Fd7oc5g0BVokH4P+c7O489cEqnX6j/awbYj8
+	 OL4p08Z5KMz0T+0fA3Ck7fdhUXTwTaHNhL2MqQphUTfo4QkNh8mb7by24NYFPjEJxg
+	 lqasTkvHYpqlycT7++COPdfx8IwghkzS7/jj6KtI=
+From: =?ISO-2022-JP?B?RlRKGyRCQFAwZhsoQg==?=<y-ishii@lamp-g.info>
+To: =?ISO-2022-JP?B?aW5mb0BwYS1yYS5jb20=?=<info@pa-ra.com>
+Errors-To: bounce+recruit2-30-1-info=pa-ra.com@lamp-g.info
+Reply-To: y-ishii@ftj-g.co.jp
+List-Unsubscribe: <http://lamp-g.info/_rm?m=recruit2&u=0a286155f6a0baf3&exe_unlink=true>
+X-List-Unsubscribe: <http://lamp-g.info/_rm?m=recruit2&u=0a286155f6a0baf3&exe_unlink=true>
+Precedence: bulk
+Subject: =?ISO-2022-JP?B?GyRCR0k4LyRyME1NaiQ3JD8kJDJxPFIhWjg9Ol8hJxsoQjEyMxskQjxSIVskSEdJOC8ycTxSIVo4PTpfIScbKEIxMjUbJEI8UiFbJE4lXiVDJUElcyUwJTUlJCVIISdMNU5BMnEwd0VQTz8kTiQ0MEZGYhsoQg==?=
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Message-Id: <20170202045359.4785E51211@lamp-g.info>
+Date: Thu,  2 Feb 2017 13:53:57 +0900 (JST)
+XSRV-Filter: info@pa-ra.com
+
+人事担当者様
+
+
+--
+お世話になっております。
+FTJ石井と申します。
+
+
+本日は、2016年8月24日にリリースしたサービスのご案内でメールさせて頂きました。
+各種求人媒体に掲載してもなかなか求めている人材を採用できないというお声をよく聞きます。
+
+
+【派遣】や【紹介予定派遣】を上手に活用することでその悩みを解消しませんか？
+
+
+■□■□■□■□■□■□■□■□■□■□■□
+
+「派遣を依頼したい会社」と「派遣会社」のマッチングサイト：Lamp（ランプ）
+
+（http://lets-lamp.com/）
+
+■□■□■□■□■□■□■□■□■□■□■□
+
+
+
+
+╋╋【現在の登録社数】╋╋
+
+派遣を依頼したい会社：１２３件
+派遣会社：１２５社
+
+╋╋.........................╋╋
+
+
+
+▼▼依頼できる内容▼▼
+
+契約形態は派遣/紹介予定派遣/業務委託の3パターンから選べます。
+職種や勤務地、求める人物像毎にいくつでも依頼を登録することができます。
+
+
+
+--他社の派遣依頼を確認する--
+http://lets-lamp.com/index.php
+
+
+
+▼▼ランプの特徴▼▼
+
+本サービスは「派遣を依頼したい会社」は完全無料でご利用いただけます。
+会員登録後にログインして頂きますと派遣依頼を作成/公開できます。
+派遣依頼を公開すると登録済み派遣会社に一斉に情報が伝わり、
+候補者の推薦を集められ、その中から最適な人材を選ぶことができます。
+
+
+
+▼▼サービス利用料▼▼
+
+派遣を依頼したい会社：完全無料
+派遣会社：マッチングによる成果報酬
+
+
+
+
+▼▼無料会員登録▼▼
+
+
+--派遣を依頼したい会社はこちらから--
+http://lets-lamp.com/singup/index.php
+
+
+
+--派遣会社はこちらから--
+http://lets-lamp.com/singup_dispatch/index.php
+
+
+
+--お電話でのお問合せはこちらからから--
+０３−６４２０−０４０９
+
+
+
+まずは無料で会員登録して頂ければ派遣依頼の作成については当社でサポート
+させて頂きます。派遣手数料の相場確認などもお気軽にお問い合わせください。
+その他ご質問などございましたら何なりとおっしゃってください！
+
+
+以上です。
+突然のメール失礼しました。
+
+よろしくお願いします。
+
+
+。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ
+☆サービス☆
+携帯のかけ放題プランを活用したCTI:call hacker
+http://callhacker.com/
+
+
+「派遣を依頼したい会社」と「派遣会社」のマッチングサイト：Lamp
+http://lets-lamp.com/
+
+
+IT/通信業界に特化した人材紹介/派遣
+
+
+
+株式会社FTJ
+石井　佑典
+
+本社：〒141-0031東京都品川区西五反田８−８−１６五反田高砂ビル６F
+支店：〒963-8844福島県郡山市賀庄153-1パルク賀庄1D
+TEL：０３−６４２０−０４０９
+FAX：０３−６４２０−０４１９
+Ｅ−ＭＡＩＬ：　y-ishii@ftj-g.co.jp
+
+
+本メールは民間のメール配信サービスのシステムを利用して配信して
+おります。
+このサービスの運営会社は、純粋なメール配信サービスを提供する事業者
+であり、直接の配信者との特別な関係は一切はございません。
+
+関係法令およびサービス利用規約に則った配信先メールアドレスの
+管理や、実際の配信作業、受信者に対する対応等は、直接の配信者が
+責任を持って行うこととなっております。
+
+従いまして、本メールに関するクレーム等は、お手数ですが、上記
+配信者連絡先まで直接お問い合わせくださいますようお願い申し上げます。
+配信された経緯を調査し、誠心誠意を持って対応させていただきます。
+
+。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ ○.。ｏ
+
+
+
+配信を解除する場合は下記URLをクリックしてください。
+http://lamp-g.info/_rm?m=recruit2&u=0a286155f6a0baf3&h=30
+

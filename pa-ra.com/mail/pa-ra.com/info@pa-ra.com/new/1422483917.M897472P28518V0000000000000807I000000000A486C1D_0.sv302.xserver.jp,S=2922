@@ -1,0 +1,77 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id BD6421080222; Thu, 29 Jan 2015 07:25:17 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:25:17 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0E3B41080214.1422483917/sv302.xserver.jp"
+Message-Id: <20150128222517.BD6421080222@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--0E3B41080214.1422483917/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<oliviateng@kpmg.com.au>: host mxa-00120b03.gslb.pphosted.com[91.207.212.41]
+    said: 550 5.1.1 User Unknown (in reply to DATA command)
+
+--0E3B41080214.1422483917/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 0E3B41080214
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:25:14 +0900 (JST)
+
+Final-Recipient: rfc822; oliviateng@kpmg.com.au
+Original-Recipient: rfc822;oliviateng@kpmg.com.au
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; mxa-00120b03.gslb.pphosted.com
+Diagnostic-Code: smtp; 550 5.1.1 User Unknown
+
+--0E3B41080214.1422483917/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 0E3B41080214
+	for <oliviateng@kpmg.com.au>; Thu, 29 Jan 2015 07:25:14 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:25:14 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from Lenovo-PC (unknown [117.248.183.216])
+	by sv302.xserver.jp (Postfix) with ESMTP id 1658A108022D
+	for <oliviateng@kpmg.com.au>; Thu, 29 Jan 2015 07:19:04 +0900 (JST)
+From: info@pa-ra.com
+To: oliviateng@kpmg.com.au
+Subject: =?UTF-8?Q?Blocked_Payment_from_Teng?=
+Date: Thu, 29 Jan 2015 03:48:59 +0530
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="1B551E27_2F0CBC1E_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128221905.1658A108022D@sv302.xserver.jp>
+
+--0E3B41080214.1422483917/sv302.xserver.jp--

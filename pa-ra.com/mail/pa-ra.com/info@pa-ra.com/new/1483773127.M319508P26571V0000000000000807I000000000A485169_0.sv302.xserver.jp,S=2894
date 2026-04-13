@@ -1,0 +1,88 @@
+Return-Path: <em_err_587094c7-fea0-4b70-847f-571b93c3ffe3@forest-lion.club>
+Delivered-To: info@pa-ra.com
+Received: from virusgw2.xserver.jp (virusgw2.xserver.jp [219.94.203.91])
+	by sv302.xserver.jp (Postfix) with ESMTP id 3EAD310802A3
+	for <info@pa-ra.com>; Sat,  7 Jan 2017 16:12:07 +0900 (JST)
+Received: from sv302.xserver.jp (219.94.203.142)
+ by virusgw2.xserver.jp (F-Secure/fsigk_smtp/521/virusgw2.xserver.jp);
+ Sat, 07 Jan 2017 16:12:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw2.xserver.jp)
+Received: from forest-lion.club (153-149-166-154.compute.jp-e1.cloudn-service.com [153.149.166.154])
+	by sv302.xserver.jp (Postfix) with ESMTP id 3AB2D1080225
+	for <info@pa-ra.com>; Sat,  7 Jan 2017 16:12:07 +0900 (JST)
+Received: from localhost (localhost [127.0.0.1])
+	by forest-lion.club (Postfix) with ESMTP id 0A6573470
+	for <info@pa-ra.com>; Sat,  7 Jan 2017 16:12:07 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=forest-lion.club;
+	s=dkim; t=1483773127;
+	bh=Ppd4u4iE4EflQ7DKZwQFdR4E/ZujIGC/VU2x0jWzXUk=;
+	h=From:Reply-To:To:Date:Subject;
+	b=BHM6m+fm0SvERTefp88q9DgbwDfqy1pzFhQvMJZl47m7ox1k/LOU3O9YAsLeuUwWS
+	 mLRi5eRnDRc5+eDhGl2h0Af2wSuprjOgPCpg5Xpkm++03NGbGVj2FDio5cGxVjf7rj
+	 RdvcVgOJAANn6+JX04qvHtPbMPao271TjY0XDteM=
+From: =?ISO-2022-JP?B?GyRCJVMlZSE8JUYlIyE8JVEhPCVIJUohPBsoQg==?= <info@forest-lion.club>
+Reply-To: =?ISO-2022-JP?B?GyRCJVMlZSE8JUYlIyE8JVEhPCVIJUohPBsoQg==?= <info@diet-partner.jp>
+To: info@pa-ra.com
+X-Priority: 3
+Date: Sat, 07 Jan 2017 16:12:07 +0900
+Message-ID: <587094c724084b8d805c571b93c3ffe3@forest-lion.club>
+Subject: =?ISO-2022-JP?B?GyRCJV4lNyVzSE5HZCQqQDU3biUtJWMlcyVaITwlcyROJDQwRkZiGyhC?=
+ =?ISO-2022-JP?B?GyRCISobKEI=?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="459fc19c7ef8450779611709efab3316"
+Content-Transfer-Encoding: 7bit
+XSRV-Filter: info@pa-ra.com
+
+--459fc19c7ef8450779611709efab3316
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+ーーーーーーーーーーーーーーーーーーーー
+BeautyPartner新宿店
+160-0023
+東京都新宿区西新宿7-7-27
+第一守徳ビル702
+TEL: 03-6279-1452
+E-Mail: info@diet-partner.jp
+Webサイト: http://beauty-partner.jp/
+ーーーーーーーーーーーーーーーーーーーー
+
+--459fc19c7ef8450779611709efab3316
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+	<title>Emails/html</title>
+</head>
+<body>
+	<p> 
+</p>
+<p> ーーーーーーーーーーーーーーーーーーーー
+</p>
+<p> BeautyPartner新宿店
+</p>
+<p> 160-0023
+</p>
+<p> 東京都新宿区西新宿7-7-27
+</p>
+<p> 第一守徳ビル702
+</p>
+<p> TEL: 03-6279-1452
+</p>
+<p> E-Mail: info@diet-partner.jp
+</p>
+<p> Webサイト: http://beauty-partner.jp/
+</p>
+<p> ーーーーーーーーーーーーーーーーーーーー</p>
+
+</body>
+</html>
+
+
+--459fc19c7ef8450779611709efab3316--
+
+
+

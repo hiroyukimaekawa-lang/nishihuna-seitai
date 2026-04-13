@@ -1,0 +1,78 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id 16004108023A; Thu, 29 Jan 2015 07:33:44 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:33:44 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="32D37108022D.1422484424/sv302.xserver.jp"
+Message-Id: <20150128223344.16004108023A@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--32D37108022D.1422484424/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<stu81@live.com.au>: host mx4.hotmail.com[65.55.37.88] said: 550 Requested
+    action not taken: mailbox unavailable (in reply to RCPT TO command)
+
+--32D37108022D.1422484424/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 32D37108022D
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:33:43 +0900 (JST)
+
+Final-Recipient: rfc822; stu81@live.com.au
+Original-Recipient: rfc822;stu81@live.com.au
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx4.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--32D37108022D.1422484424/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 32D37108022D
+	for <stu81@live.com.au>; Thu, 29 Jan 2015 07:33:43 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:43 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from iverson-PC (unknown [216.249.231.176])
+	by sv302.xserver.jp (Postfix) with ESMTP id 962501080249
+	for <stu81@live.com.au>; Thu, 29 Jan 2015 07:33:17 +0900 (JST)
+From: info@pa-ra.com
+To: stu81@live.com.au
+Subject: =?UTF-8?Q?Urgent_notification_for_Stuart._BPay_?=
+ =?UTF-8?Q?Transfer_Case_No__20854?=
+Date: Wed, 28 Jan 2015 16:33:16 -0600
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="013023B1_205C5B2E_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223317.962501080249@sv302.xserver.jp>
+
+--32D37108022D.1422484424/sv302.xserver.jp--

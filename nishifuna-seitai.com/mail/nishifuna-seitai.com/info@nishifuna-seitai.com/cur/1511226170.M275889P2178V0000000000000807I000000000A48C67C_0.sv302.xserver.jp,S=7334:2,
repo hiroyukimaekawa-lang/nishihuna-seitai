@@ -1,0 +1,177 @@
+Return-Path: <spiral-error-4b52cf9a0647d8abf549959a659cbd0d@rcv18.smp.ne.jp>
+Delivered-To: info@nishifuna-seitai.com
+Received: from virusgw2.xserver.jp (virusgw2.xserver.jp [219.94.203.91])
+	by sv302.xserver.jp (Postfix) with ESMTP id 3CC6B1080318
+	for <info@nishifuna-seitai.com>; Tue, 21 Nov 2017 10:02:50 +0900 (JST)
+Received: from sv302.xserver.jp (219.94.203.142)
+ by virusgw2.xserver.jp (F-Secure/fsigk_smtp/521/virusgw2.xserver.jp);
+ Tue, 21 Nov 2017 10:02:50 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw2.xserver.jp)
+Received: from agt1802.smp.ne.jp (agt1802.smp.ne.jp [61.211.237.200])
+	by sv302.xserver.jp (Postfix) with ESMTP id 357C2108030E
+	for <info@nishifuna-seitai.com>; Tue, 21 Nov 2017 10:02:50 +0900 (JST)
+Received: (qmail 547 invoked by uid 200); 21 Nov 2017 10:02:42 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20170509-spiral; t=1511226162;
+	bh=W+WIZao3mL1HaIZLY0pc7k9PTKwM0O6tRbIjuTO0xz8=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=pSo9b8A0mqG2IOz/CzFsMoo/0XD2jU+1O3ow5YQAPnjgu8HfYcnyBX/UPGdsK9Bhy
+	 1yKQLmppI18PzPdE7fA2SJ6AsC3fmiQ6oPWk2nhv3PDUKEZqwF4f57p8mYxFZz8d1/
+	 5W2ZTZi0LnzrdY3WMiYWx2sigmGiD0dE5g14SMNESZr+CKftUUZqYL4G1IbFEFf5Aj
+	 gMoz6VlGQBt9ASCLs+eStvXY5wN4OACom8WCkKdIU9fhOA6kNuC/FtP+cJkyUwwvHb
+	 4UA4sJXX8IFLwOwUjKiV1tbxBi70uQxF7URSVfLijoKhemBl8jkXgowB7uLgJck8r8
+	 R9XGsRB6nXD8Q==
+Message-Id: <SMP2282_988167_111100.1511226162@agt1802.smp.ne.jp>
+Date: Tue, 21 Nov 2017 10:02:42 +0900
+From: =?iso-2022-jp?B?GyRCJTshPCVrJTkkTjNYOTshIURqOm4bKEI=?= <jozukuri@sales-school.co.jp>
+Subject: 12/7=?iso-2022-jp?B?GyRCRnwbKEIxORskQkZ8RWw1fjMrOkUhIiFWS2hHLxsoQg==?=
+ =?iso-2022-jp?B?GyRCIzIjMCMwIzBMPiROPFIwdzgmPSQkciQqJDMkSiQmJTshPBsoQg==?=
+ =?iso-2022-jp?B?GyRCJWslOSROM1g5OyQsRUEkKCQ/JCQhWDBpQC4kTjtFQUgkXxsoQg==?=
+ =?iso-2022-jp?B?GyRCIVkkSCRPISkhKiFXGyhC?=
+To: info@nishifuna-seitai.com
+Reply-To: jozukuri@sales-school.co.jp
+User-Agent: Spiral/1.11; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+XSRV-Filter: info@nishifuna-seitai.com
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+【特別セミナー】
+毎年２０００名の社員研修をおこなうセールスの学校が伝えたい『育成の仕組み』とは？！
+育成にコストをかけたくない企業の方へも耳よりの情報がございます！！
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+ご担当者様
+
+
+お世話になっております。株式会社セールスの学校定作です。
+
+今回は、皆さんに耳よりのセミナー情報をお届けいたします。
+毎年２０００名に対する研修を弊社は実施しております。
+その人気の秘密、教育ノウハウを惜しみなく披露させていただきます。
+自社で使える教育ノウハウももちろん、普段社内にいるだけでは見つけることが出来ない
+プロの知識を手に入れることが出来ます。
+しかも弊社が秘訣としていることは皆様も簡単に実施することが出来ます。
+
+その秘訣とは！●●●●です。
+
+この●●●●が気になる方は是非、弊社セミナーの足を運んでみてはいかがでしょうか。
+
+
+《開催日時》
+12月7日（木）16:00〜18:30（開場15:30）
+12月19日（火）10:00〜12:30（開場9:30）
+
+《会場》
+スタンダード会議室 五反田ソニー通り店
+《住所》
+〒141-0022 東京都品川区東五反田２丁目３−５ 五反田 中央 ビル ４階C会議室
+https://goo.gl/1ecsfe
+
+お申込み心よりお待ちしております。
+
+
+▼セミナーの詳細・お申し込みはこちら▼
+12月7日  http://ptix.at/AxjOst
+
+12月19日 http://ptix.at/xfr2uj
+
+
+【お役立ち情報】
+
+「1」ミレニアム世代の若者が求めること
+
+先日のメールで、アメリカのギャラップ社が調査した
+日本人のやる気についてお知らせいたしました。
+
+日本でもゆとり・さとりと揶揄され、物欲金欲に薄いと言われますが
+どうやら日本特有の事象ではないようでございます。
+
+--------------------------------------------------------
+コマンド＆コントロール（指令と管理）という手法で他の国も
+これを模倣していた。問題は（1980〜2000年ごろに生まれた）
+ミレニアル世代が求めていることが全く違うことだ。
+ミレニアル世代は自分の成長に非常に重きを置いている。
+--------------------------------------------------------
+
+こちらは、ギャラップ社の調査結果のコメントを引用しています。
+20代〜30代半ばくらいまでの世代で、価値観が大きく変わっているようです。
+
+ポイントは"成長"を求めているということです。
+
+新卒の面接をしていても必ずと言っていいほど
+「成長できる環境」を求めているとお決まり文句として言います。
+
+それは面接用ではなく、本心から成長したいと考えているようです。
+しかし成長意欲のそれは少々人頼りな面もあり、
+成長させてくれる会社や上司を求めています。
+
+成長させてほしいという発想は「甘い」と言われるが多いのですが
+それが今の世代の特徴でもあります。
+
+しかし会社にとって社員の成長は企業の成長において重要です。
+そして、その"成長"こそが会社と社員がお互いに求め
+利害が一致する唯一のことだということです。
+
+
+成長を支援することが、社員の働きがいを増長し、
+生産性を高める一つの解であると弊社は考えております。
+
+貴社には「成長できる環境」はありますでしょうか？
+
+今後のご案内不要の方はお手数おかけいたしますが
+ご返信にてお知らせいただけましたら幸いでございます。
+http://r18.smp.ne.jp/o/Pg/988167/agQzJ4IJdDhD/out?stop=lblbka
+-------------------------------------
+セールスの学校
+https://goo.gl/cRQ9aT
+03-6417-0520
+mail:jozukuri@sales-school.co.jp
+担当：前橋、宮地、定作
+-------------------------------------
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┌╂┐　経営理念 　　　　　　　　　　　　　　　　　　　　 ┃
+│┗┿━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+│　│「働きがいを生きがいへ」
+│　│人生の1/3である仕事に充実感があれば人生は楽しくなる。
+└─┘どんな仕事でも楽しめるようになる成長機会を提供します。
+
+　　　　　 　　　　　　 ■────────────────╋
+ 株式会社セールスの学校 │WebSite http://sales-training.jp
+╋───────────╋
+│
+│営業部　定作　沙紀　Jozukuri Saki          
+│
+│141-0031 東京都品川区西五反田7-22-17 TOCビル4階
+│TEL:03-6417-0520  FAX:03-6417-0521
+│                                       
+│　　　　　　　　　　           　jozukuri@sales-school.co.jp
+╋────────────────────────────╋
+
+　日本一の新人研修 ダイジェスト動画
+　https://youtu.be/1YzU_S9ipGc
+
+╋────────────────────────────╋
+
+　セールスの学校　グループ
+
+　ＳＧ運送事業部
+　「荷物ではなく届けるのは価値！」http://www.sg-u.jp/
+
+　株式会社日本講師センター
+　「講師のプロフェッショナル集団」http://nk-center.jp/
+
+　株式会社ＳＧコンサルティング
+　「営業戦略の構築なら」http://sg-consulting.jp/
+
+╋────────────────────────────╋
+
+　浅井隆志の著書　累計18,000部
+　『検討します』を言わせない営業術　http://amzn.to/hf05Cl　
+
+╋────────────────────────────╋
+

@@ -1,0 +1,18 @@
+Options -Indexes
+
+php_value default_charset EUC-JP
+php_value mbstring.language Japanese
+php_value mbstring.internal_encoding EUC-JP
+php_value mbstring.input_encoding pass
+php_value mbstring.output_encoding pass
+php_value mbstring.detect_order         ASCII,JIS,EUC-JP,UTF-8,SJIS
+php_value mbstring.substitute_character none
+
+php_flag register_globals Off
+php_flag magic_quotes_gpc Off
+
+php_flag session.use_trans_sid Off
+php_flag session.use_cookies On
+php_flag session.use_only_cookies On
+php_flag session.auto_start Off
+php_value session.cache_limiter none

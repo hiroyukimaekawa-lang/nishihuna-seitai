@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/bin/php-fcgi5.3 -c /home/n-seitai/nishifuna-seitai.jp/xserver_php/php.ini

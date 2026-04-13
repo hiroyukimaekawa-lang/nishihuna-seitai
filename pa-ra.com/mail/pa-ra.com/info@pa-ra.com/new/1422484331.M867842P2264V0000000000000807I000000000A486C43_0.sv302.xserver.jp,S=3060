@@ -1,0 +1,80 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id CB6FE1080222; Thu, 29 Jan 2015 07:32:11 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:32:11 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="21657108023F.1422484331/sv302.xserver.jp"
+Message-Id: <20150128223211.CB6FE1080222@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--21657108023F.1422484331/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<gglab@pacifichydro.com.au>: host cluster4.us.messagelabs.com[216.82.253.227]
+    said: 550 Invalid recipient <gglab@pacifichydro.com.au> (#5.1.1) (in reply
+    to RCPT TO command)
+
+--21657108023F.1422484331/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 21657108023F
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:32:10 +0900 (JST)
+
+Final-Recipient: rfc822; gglab@pacifichydro.com.au
+Original-Recipient: rfc822;gglab@pacifichydro.com.au
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; cluster4.us.messagelabs.com
+Diagnostic-Code: smtp; 550 Invalid recipient <gglab@pacifichydro.com.au>
+    (#5.1.1)
+
+--21657108023F.1422484331/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 21657108023F
+	for <gglab@pacifichydro.com.au>; Thu, 29 Jan 2015 07:32:10 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:32:10 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from ?????? (unknown [221.138.252.114])
+	by sv302.xserver.jp (Postfix) with ESMTP id 233E51080232
+	for <gglab@pacifichydro.com.au>; Thu, 29 Jan 2015 07:32:08 +0900 (JST)
+From: info@pa-ra.com
+To: gglab@pacifichydro.com.au
+Subject: =?UTF-8?Q?Important_notification_for_GEORGE._?=
+ =?UTF-8?Q?BPay_Dispute_N__63907?=
+Date: Wed, 28 Jan 2015 22:32:07 +0000
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="2C60522D_1E40E6B7_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223208.233E51080232@sv302.xserver.jp>
+
+--21657108023F.1422484331/sv302.xserver.jp--

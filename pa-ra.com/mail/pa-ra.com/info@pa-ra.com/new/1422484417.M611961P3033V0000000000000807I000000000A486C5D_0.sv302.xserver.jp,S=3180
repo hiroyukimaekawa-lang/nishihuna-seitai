@@ -1,0 +1,74 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 8D900108022E
+	for <info@pa-ra.com>; Thu, 29 Jan 2015 07:33:37 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:37 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from mxproc2.iseek.com.au (mxproc2.iseek.com.au [202.183.96.133])
+	by sv302.xserver.jp (Postfix) with ESMTP id 304B2108022D
+	for <info@pa-ra.com>; Thu, 29 Jan 2015 07:33:36 +0900 (JST)
+Received: from localhost by mxproc2.iseek.com.au;
+  29 Jan 2015 08:33:37 +1000
+Message-Id: <05d7cf$1la962@mxproc2.begen.iseek.com.au>
+Date: 29 Jan 2015 08:33:37 +1000
+To: info@pa-ra.com
+From: "Mail Delivery System" <MAILER-DAEMON@mxproc2.iseek.com.au>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="3LIIy.53RtsNxN4.7OTyRhc0PMD.8FdeoBt"
+XSRV-Filter: info@pa-ra.com
+
+--3LIIy.53RtsNxN4.7OTyRhc0PMD.8FdeoBt
+content-type: text/plain;
+    charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <rjzrains@virginbroadband.com.au> was undeliverabl=
+e.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'5.1.1 <rjzrains@virginbroadband.com.au>:=
+ Recipient address rejected: User unknown'
+
+--3LIIy.53RtsNxN4.7OTyRhc0PMD.8FdeoBt
+content-type: message/delivery-status
+
+Reporting-MTA: dns; mxproc2.iseek.com.au
+
+Final-Recipient: rfc822;rjzrains@virginbroadband.com.au
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [123.200.191.12]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'5.1.1 <rjzrains@virginbroadband.com.au>: Recipient address rejected: User unknown' (delivery attempts: 0)
+
+--3LIIy.53RtsNxN4.7OTyRhc0PMD.8FdeoBt
+content-type: message/rfc822
+
+Received: from sv302.xserver.jp ([219.94.203.142])
+  by mxproc2.iseek.com.au with SMTP; 29 Jan 2015 08:33:33 +1000
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id D80E11080225
+	for <rjzrains@virginbroadband.com.au>; Thu, 29 Jan 2015 07:33:31 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:33:31 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from iverson-PC (unknown [216.249.231.176])
+	by sv302.xserver.jp (Postfix) with ESMTP id C2730108022E
+	for <rjzrains@virginbroadband.com.au>; Thu, 29 Jan 2015 07:33:07 +0900 (JST)
+From: info@pa-ra.com
+To: rjzrains@virginbroadband.com.au
+Subject: =?UTF-8?Q?Urgent_alert_for_Rains._BPay_Transaction_?=
+ =?UTF-8?Q?Dispute_N__59729?=
+Date: Wed, 28 Jan 2015 16:33:06 -0600
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="012FFD51_654E3E02_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223307.C2730108022E@sv302.xserver.jp>
+
+--3LIIy.53RtsNxN4.7OTyRhc0PMD.8FdeoBt--
+
+

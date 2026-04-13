@@ -1,0 +1,202 @@
+Return-Path: <spiral-error-4b52cf9a0647d8abf549959a659cbd0d@rcv18.smp.ne.jp>
+Delivered-To: info@nishifuna-seitai.com
+Received: from virusgw2.xserver.jp (virusgw2.xserver.jp [219.94.203.91])
+	by sv302.xserver.jp (Postfix) with ESMTP id 7E0C41080227
+	for <info@nishifuna-seitai.com>; Tue, 24 Oct 2017 09:33:06 +0900 (JST)
+Received: from sv302.xserver.jp (219.94.203.142)
+ by virusgw2.xserver.jp (F-Secure/fsigk_smtp/521/virusgw2.xserver.jp);
+ Tue, 24 Oct 2017 09:33:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw2.xserver.jp)
+Received: from agt1802.smp.ne.jp (agt1802.smp.ne.jp [61.211.237.200])
+	by sv302.xserver.jp (Postfix) with ESMTP id 7461C1080225
+	for <info@nishifuna-seitai.com>; Tue, 24 Oct 2017 09:33:06 +0900 (JST)
+Received: (qmail 24786 invoked by uid 200); 24 Oct 2017 09:31:55 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20170509-spiral; t=1508805115;
+	bh=m883iBvpKdzgOcrdX9kbNrpGnE6leNHLMYAImyzwu6s=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=htG41C/fMWwrwnbnROzgW42uk6P+RQbCsz7vmVGpWHwicMReHdLAxziwT7z90aFaE
+	 nNflA9IuEgfjQ9VE9pyjSFp5EQgQ15NP5UdTR/FU77eefCkwu8K8Sgc9OanFOLLCrc
+	 1rwje/WwxZBixOMAvuyd4cCVYGqsjz9zdpc8u/5okLF6oHUyZNzpd1kt3TrNS88yN+
+	 O/DTpGo1YCbDarcjU5qQq1fTp/vEhcLu/F5qBUR/lOUln3czN8K+vtJS49hbtAe04q
+	 00p0T9Sokw8J/aOhSwaeKNCTHFBpXnnoSL/fr+jd/VkKVe3tyj6ZZ/JyLSNlc7hmYT
+	 Dgbibj0OpDdfA==
+Message-Id: <SMP2282_934667_6612.1508805115@agt1802.smp.ne.jp>
+Date: Tue, 24 Oct 2017 09:31:55 +0900
+From: =?iso-2022-jp?B?GyRCJTshPCVrJTkkTjNYOTshIURqOm4bKEI=?= <jozukuri@sales-school.co.jp>
+Subject: =?iso-2022-jp?B?GyRCS2hHLxsoQjIwMDAbJEJMPiQsPHU5ViQ5JGshVk4lPyYbKEI=?=
+ =?iso-2022-jp?B?GyRCJHJLSSQuSVQ6Tjs7PFIwdyRyJEokLyQ5Qk40NjY1MGkhVxsoQg==?=
+ =?iso-2022-jp?B?GyRCJEgkTyEqP007dkM0RXY8VE1NJCw8QjQ2JEckLSRrQk44MxsoQg==?=
+ =?iso-2022-jp?B?GyRCJW8hPCUvJTclZyVDJVckTiQqQ04kaSQ7GyhC?=
+To: info@nishifuna-seitai.com
+Reply-To: jozukuri@sales-school.co.jp
+User-Agent: Spiral/1.11; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+XSRV-Filter: info@nishifuna-seitai.com
+
+新人教育ご担当者様
+
+
+お世話になります。
+株式会社セールスの学校の定作と申します。
+
+突然のご連絡で恐縮でございます。
+HPを拝見し、貴社の課題解決にお力添えできればと思い
+ご連絡させていただきました。
+
+採用の失敗や早期離職を防ぎ、不満がでない教育環境作りに
+つながるセミナーを開催させていただいております。
+
+弊社は全国12か所で毎年2000名規模で新卒教育を担っており
+高い評価をいただいている新人トレーニング機関でございます。
+
+受講生からは必ず「後輩にも受けさせたい」と言っていただき
+リピート率は9割を超える状況でございます。
+
+
+セミナーに参加いただくことで、ワークを体験いただくことができます。
+ご担当者様自身の気づきも多く成長期待を実感いただけると存じます。
+
+ご存じの通り、若手の価値観は大きく変わり、
+適切なマネジメントがなければ離職を防ぐことはできません。
+
+また、従来の日本的教育が若手の不満を呼び
+生産性の低下につながっています。
+
+ご担当者様の視点でこのような課題はございませんでしょうか。
+
+------------------------------
+□若手のストレス耐性が弱くうまく叱れない
+□離職が多く、採用効率が悪い
+□考える力がなく言ったことしかできない
+□コミュニケーション力が弱く報連相ができない
+□モチベーションが低く生産性が低い
+□愛社精神・帰属意識が低い
+□管理職が新人を怖がって距離を置いている
+------------------------------
+
+これらの課題を放置してしまうと後の離職を止めることができません。
+課題解決につながるノウハウが弊社にはございます。
+
+売り手市場の今、育ったタイミングで転職されてしまうと
+全体の生産性は大きくあがることはありません。
+
+セミナーに参加いただくことで、若手への違和感がなくなり
+これらの課題解決に向かう一手を導くことができるようになります。
+
+体験ワークをご用意しておりますので、ご担当者様自身も
+実感していただくことができる内容となっております。
+
+セミナーに参加いただくことで、以下のような情報をとっていただくことができます。
+
+・若手が会社、上司に対して不満に思うこと
+・離職の原因になっていること
+・OJT教育が機能しなくなった背景、理由
+・研修が無駄になってしまう理由と解決策
+・失敗しない教育体制の構築方法
+
+また、失敗しない外部の研修の選定基準もお伝えしております。
+
+もしかしたら採用した研修効果が実感いただければ
+ご担当者様の評価が下がることを避けることができます。
+
+多くの企業で、マネジメントの失敗も採用のせいにされがちです。
+
+教育がうまくいくことで、採用の失敗を防ぐメリットもございます。
+
+まずはセミナーに参加いただきまして、
+若手が離職してしまう原因や会社への不満をご理解ください。
+
+社員教育の歴史をご理解いただくことで何故OJT中心の教育が
+効果がなくなっているのかご納得いただくことができます。
+
+古い教育のままでは、新しい世代に対応することができなくなり
+採用市場で勝っていくことができなくなってしまいます。
+
+社内の改善ポイントをチェックいただくことができますので
+次の一手を考えることができるようになります。
+
+
+選択肢を広げていただくためにも
+是非セミナーにお越しいただけましたら幸いです。
+
+▼10月31日　10:00〜12:30
+今までの教育は全て無駄！？
+教育を実務に結びつけることが出来るセールスの学校の新入社員研修とは？
+https://goo.gl/mMDccm
+
+▼11月17日　10:00〜13:00
+貴社の可能性を広げる！！アスリート採用＆新人マネジメントセミナー	
+https://goo.gl/b8Uu4e
+
+▼11月27日　16:00〜19:00
+働きがいのある人気企業を創る！ あしたの教育制度構築セミナー
+https://goo.gl/4SemFj
+
+▼12月7日　16:00〜18:00
+今までの教育は全て無駄！？
+教育を実務に結びつけることが出来るセールスの学校の新入社員研修とは？
+https://goo.gl/jpYmnT
+
+セミナーお申込みは各URLからいただけましたら幸いです。
+
+もしお時間にご都合つかない場合は、ご訪問させていただきまして
+情報共有させていただくことも可能でございます。
+
+
+今後のご案内不要の方はお手数おかけいたしますが
+下記URLまたはご返信にてお知らせいただけましたら幸いでございます。
+http://r18.smp.ne.jp/o/Pg/934667/k7C05HIgDH88/out?stop=qglc
+
+--------------------------------
+株式会社セールスの学校
+担当：定作
+ご連絡先：03-6417-0520
+mail:jozukuri@sales-school.co.jp
+--------------------------------
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┌╂┐　経営理念　　　　　　　　　　　　　　　　　　　　  ┃
+│┗┿━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+│　│「働きがいを生きがいへ」
+│　│人生の1/3である仕事に充実感があれば人生は楽しくなる。
+└─┘どんな仕事でも楽しめるようになる成長機会を提供します。
+
+　　　　　　　　　　　  ■────────────────╋
+ 株式会社セールスの学校 │WebSite http://sales-training.jp
+╋───────────╋
+│
+│営業部　定作　沙紀　Jozukuri Saki
+│
+│141-0031 東京都品川区西五反田7-22-17 TOCビル4階
+│TEL:03-6417-0520  FAX:03-6417-0521
+│                                    
+│　　　　　　　　　　　           jozukuri@sales-school.co.jp
+╋────────────────────────────╋
+
+　日本一の新人研修 ダイジェスト動画
+　https://youtu.be/1YzU_S9ipGc
+
+╋────────────────────────────╋
+
+　セールスの学校　グループ
+
+　ＳＧ運送事業部
+　「荷物ではなく届けるのは価値！」http://www.sg-u.jp/
+
+　株式会社日本講師センター
+　「講師のプロフェッショナル集団」http://nk-center.jp/
+
+　株式会社ＳＧコンサルティング
+　「営業戦略の構築なら」http://sg-consulting.jp/
+
+╋────────────────────────────╋
+
+　浅井隆志の著書　累計18,000部
+　『検討します』を言わせない営業術　http://amzn.to/hf05Cl
+
+╋────────────────────────────╋
+

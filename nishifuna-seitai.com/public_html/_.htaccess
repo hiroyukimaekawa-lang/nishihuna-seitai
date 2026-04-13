@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(nishifuna-seitai\.com)(:80)? [NC]
+RewriteRule ^(.*) http://www.nishifuna-seitai.com/$1 [R=301,L]
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ http://www.nishifuna-seitai.com/$1 [R=301,L]
+AddHandler x-httpd-php5.3 .php .phps

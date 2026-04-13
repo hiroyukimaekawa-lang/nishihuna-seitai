@@ -1,0 +1,101 @@
+Return-Path: <aromaaja@gmail.com>
+Delivered-To: info@pa-ra.com
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id ED4D010801B3
+	for <info@pa-ra.com>; Mon, 13 May 2013 21:02:11 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Mon, 13 May 2013 21:02:11 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from mail-lb0-f179.google.com (mail-lb0-f179.google.com [209.85.217.179])
+	by sv302.xserver.jp (Postfix) with ESMTP id 604EA10801A8
+	for <info@pa-ra.com>; Mon, 13 May 2013 21:02:10 +0900 (JST)
+Received: by mail-lb0-f179.google.com with SMTP id d10so6287006lbj.10
+        for <info@pa-ra.com>; Mon, 13 May 2013 05:02:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=5Uq5tPRHpfIQPdrzBJpXq4olERXQY06VsFv+DQYSH1o=;
+        b=H5fLSbFFSKKCXtymbvbrdmCIA8xBUyy5Cp/RwhFtzgI1/vLT/P7JCbG1nqfKyotZ50
+         1x6TBZz62/rnAzSiBkd4IaloHKpM8m00PrV0E4FVFTkLi7D3hMQYjAAnn3QHyU+yIAwl
+         diCVVCqnf4Afz3lSik5t7qtEwVXry6d7x4LNUhiRa1Qh7FHQPu+ZjowTxUjAZPYlgTFv
+         aQgKPKxqBLdf8nYKJ3KCyVbcr9doNW1ulHeTGTCuPH0FuOn8XzlJzRbeVM+HQsNO7fBk
+         lZPvoGmgySSmWaTMzegTW/a4TA1aHsq/oCZY4cvaJ5wqYcGNJ1j+vcKqIzISIc9n+EP2
+         n2uA==
+MIME-Version: 1.0
+X-Received: by 10.112.146.198 with SMTP id te6mr12727250lbb.133.1368446527769;
+ Mon, 13 May 2013 05:02:07 -0700 (PDT)
+Received: by 10.114.0.199 with HTTP; Mon, 13 May 2013 05:02:07 -0700 (PDT)
+Date: Mon, 13 May 2013 21:02:07 +0900
+Message-ID: <CAFMMU3FEwDPHtKojhwzbNcWyOdL7p_GQsVJK9K-dOeNQRq+dGw@mail.gmail.com>
+Subject: =?ISO-2022-JP?B?GyRCNkhMM0RzN0gkTiQqNGokJBsoQg==?=
+From: =?ISO-2022-JP?B?GyRCJSIlbSVeI0EjSiNBGyhC?= <aromaaja@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=047d7b3433002e942604dc9849a3
+XSRV-Filter: info@pa-ra.com
+
+--047d7b3433002e942604dc9849a3
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+御担当者様
+
+はじめてメールを差し上げます。
+私、アロマエステＡＪＡ、営業部の長谷部と申します。
+
+突然のことですが、貴社のホームページを拝見し、
+貴社との業務提携ができればと思いメールをさせていただきました。
+
+弊社はメンズエステサロンを千葉県を中心に業務展開しております。
+メンズエステといっても風俗サービス等はない健全ノーマルな男性向けアロマエステです。
+現在、女性向けエステサロンを営業されている店舗で
+単独の男性の御客様を受け入れてもらえる店舗様を探しております。
+
+現在の店舗を経営しながら男性の御客様を受け入れ収益のＵＰを考えてみませんか。
+御興味があるようでしたら詳しく御説明させていただきます。
+
+ご検討いただければ幸甚に存じます。
+
+まずは、メールにてお願い申し上げます。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━
+アロマエステＡＪＡ 営業部 長谷部亮
+ 住所：〒275-0026
+千葉県習志野市谷津1-13-10 ヤマワロイヤルパレス201
+047-407-4556（tel）
+090-4713-0620
+ URL: http://www.esthe-aja.info/
+ Mail: aromaaja@gmail.com
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--047d7b3433002e942604dc9849a3
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PHA+GyRCOGZDNEV2PFRNTRsoQiA8YnI+Jm5ic3A7IDxicj4bJEIkTyQ4
+JGEkRiVhITwlayRyOjkkNz5lJDIkXiQ5ISMbKEImbmJzcDsgPGJyPhskQjtkISIlIiVtJV4lKCU5
+JUYjQSNKI0EhIjFENkhJdCRORDlDK0l0JEg/PSQ3JF4kOSEjGyhCJm5ic3A7IDxicj4mbmJzcDsg
+PGJyPhskQkZNQTMkTiQzJEgkRyQ5JCwhIjUuPFIkTiVbITwlYCVaITwlOCRyR1I4KyQ3ISIbKEIm
+bmJzcDsgPGJyPhskQjUuPFIkSCRONkhMM0RzN0gkLCRHJC0kbCRQJEg7VyQkJWEhPCVrJHIkNSQ7
+JEYkJCQ/JEAkLSReJDckPyEjGyhCPC9wPjxwPhskQkpAPFIkTyVhJXMlOiUoJTklRiU1JW0lcyRy
+QGlNVTgpJHJDZj80JEs2SEwzRTgzKyQ3JEYkKiRqJF4kOSEjGyhCPGJyPhskQiVhJXMlOiUoJTkl
+RiRIJCQkQyRGJGJJd0IvJTUhPCVTJTlFeSRPJEokJDdyQTQlTiE8JV4layRKQ0tALTh+JDElIiVt
+JV4lKCU5JUYkRyQ5ISMbKEI8YnI+DQobJEI4PTpfISI9d0AtOH4kMSUoJTklRiU1JW0lcyRyMUQ2
+SCQ1JGwkRiQkJGtFOUpeJEcbKEI8YnI+GyRCQzFGSCROQ0tALSROOGY1Uk1NJHI8dSQxRn4kbCRG
+JGIkaSQoJGtFOUpeTU0kckM1JDckRiQqJGokXiQ5ISMbKEI8L3A+PHA+GyRCOD06XyRORTlKXiRy
+N1AxRCQ3JEokLCRpQ0tALSROOGY1Uk1NJHI8dSQxRn4kbDx9MVckTiNVI1AkcjlNJCgkRiRfJF4k
+OyRzJCshIxsoQjwvcD48ZGl2PhskQjhmNj1MIyQsJCIkayRoJCYkRyQ3JD8kaT5cJDckLzhmQGJM
+QCQ1JDskRiQkJD8kQCQtJF4kOSEjGyhCPGJyPiZuYnNwOzxicj4bJEIkNDghRiQkJCQ/JEAkMSRs
+JFA5LD9TJEtCOCQ4JF4kOSEjGyhCJm5ic3A7IDxicj4mbmJzcDsgPGJyPhskQiReJDokTyEiJWEh
+PCVrJEskRiQqNGokJD89JDc+ZSQyJF4kOSEjGyhCJm5ic3A7IDxicj4mbmJzcDsgPGJyPhskQigs
+KCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsGyhCPGJyPg0K
+GyRCJSIlbSVeJSglOSVGI0EjSiNBISExRDZISXQhIUQ5QytJdE48GyhCPGJyPiZuYnNwOxskQj07
+PWohJyIpGyhCMjc1LTAwMjYbJEIhIRsoQjxicj4bJEJAaU1VOCk9LDtWTG47VEMrREUbKEIxLTEz
+LTEwGyRCISElZCVeJW8lbSUkJWQlayVRJWwlORsoQjIwMTxicj4wNDctNDA3LTQ1NTYbJEIhShso
+QnRlbBskQiFLGyhCPGJyPjA5MC00NzEzLTA2MjA8YnI+Jm5ic3A7VVJMOiA8YSBocmVmPSJodHRw
+Oi8vd3d3LmVzdGhlLWFqYS5pbmZvLyI+aHR0cDovL3d3dy5lc3RoZS1hamEuaW5mby88L2E+PGJy
+PiZuYnNwO01haWw6IDxhIGhyZWY9Im1haWx0bzphcm9tYWFqYUBnbWFpbC5jb20iPmFyb21hYWph
+QGdtYWlsLmNvbTwvYT4gPGJyPg0KGyRCKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwoLCgsKCwo
+LCgsKCwoLCgsKCwoLCgsKCwbKEI8L2Rpdj48L2Rpdj4NCg==
+--047d7b3433002e942604dc9849a3--

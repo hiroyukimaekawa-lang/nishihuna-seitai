@@ -1,0 +1,82 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id A60101080231; Thu, 29 Jan 2015 07:32:15 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:32:15 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="7DCFB108025D.1422484335/sv302.xserver.jp"
+Message-Id: <20150128223215.A60101080231@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--7DCFB108025D.1422484335/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<louise241184@yahoo.com.au>: host mta5.am0.yahoodns.net[98.136.217.203] said:
+    554 delivery error: dd This user doesn't have a yahoo.com.au account
+    (louise241184@yahoo.com.au) [0] - mta1408.mail.gq1.yahoo.com (in reply to
+    end of DATA command)
+
+--7DCFB108025D.1422484335/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 7DCFB108025D
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:32:12 +0900 (JST)
+
+Final-Recipient: rfc822; louise241184@yahoo.com.au
+Original-Recipient: rfc822;louise241184@yahoo.com.au
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mta5.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 delivery error: dd This user doesn't have a
+    yahoo.com.au account (louise241184@yahoo.com.au) [0] -
+    mta1408.mail.gq1.yahoo.com
+
+--7DCFB108025D.1422484335/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 7DCFB108025D
+	for <louise241184@yahoo.com.au>; Thu, 29 Jan 2015 07:32:12 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:32:12 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from ?????? (unknown [221.138.252.114])
+	by sv302.xserver.jp (Postfix) with ESMTP id C7B211080272
+	for <louise241184@yahoo.com.au>; Thu, 29 Jan 2015 07:32:09 +0900 (JST)
+From: info@pa-ra.com
+To: louise241184@yahoo.com.au
+Subject: =?UTF-8?Q?Important_message_for_Louise._Bill_?=
+ =?UTF-8?Q?Pay_Dispute_Number__02982?=
+Date: Wed, 28 Jan 2015 22:32:09 +0000
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="2C6058F3_09B3C8F7_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223209.C7B211080272@sv302.xserver.jp>
+
+--7DCFB108025D.1422484335/sv302.xserver.jp--

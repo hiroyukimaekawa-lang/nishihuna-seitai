@@ -1,0 +1,80 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id D189A108022C; Thu, 29 Jan 2015 07:32:17 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:32:17 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="09788108024A.1422484337/sv302.xserver.jp"
+Message-Id: <20150128223217.D189A108022C@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--09788108024A.1422484337/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<grubby@samford.net>: host po.mail.sisgroup.com.au[122.252.0.20] said: 554
+    5.1.1 <grubby@samford.net>: Recipient address rejected: User unknown (in
+    reply to RCPT TO command)
+
+--09788108024A.1422484337/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: 09788108024A
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:32:14 +0900 (JST)
+
+Final-Recipient: rfc822; grubby@samford.net
+Original-Recipient: rfc822;grubby@samford.net
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; po.mail.sisgroup.com.au
+Diagnostic-Code: smtp; 554 5.1.1 <grubby@samford.net>: Recipient address
+    rejected: User unknown
+
+--09788108024A.1422484337/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id 09788108024A
+	for <grubby@samford.net>; Thu, 29 Jan 2015 07:32:14 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:32:14 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from ?????? (unknown [221.138.252.114])
+	by sv302.xserver.jp (Postfix) with ESMTP id 78710108022A
+	for <grubby@samford.net>; Thu, 29 Jan 2015 07:32:11 +0900 (JST)
+From: info@pa-ra.com
+To: grubby@samford.net
+Subject: =?UTF-8?Q?Urgent_alert_for_Supporter._Bill_?=
+ =?UTF-8?Q?Pay_Transaction_Dispute_Number__90285?=
+Date: Wed, 28 Jan 2015 22:32:11 +0000
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="2C605F4C_209BE4D2_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223211.78710108022A@sv302.xserver.jp>
+
+--09788108024A.1422484337/sv302.xserver.jp--

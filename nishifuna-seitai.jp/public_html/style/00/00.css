@@ -1,0 +1,321 @@
+@charset "utf-8";
+
+.baseColor {
+	background-color: #6699f2;
+}
+.baseFontColor {
+	color: #fff;
+}
+.baseBorderColor {
+	border-color: #a3c2f1;
+}
+.subFontColor {
+	color: #606060;
+}
+.subColor {
+	background-color: #f1f7fe;
+}
+
+body {
+	color: #2a271c;
+	background:url(images/allbg.jpg) repeat-x top center #fff;
+	line-height: 180%;
+	font-size:75%;
+	text-shadow:1px 1px 0 #fff;
+}
+a:link {
+	color: #4082EE;
+}
+a:visited {
+	color: #4082EE;
+}
+a:hover {
+	color: #87B0F5;
+}
+
+#header h1,
+#header h1 a {
+	color: #a1a1a1;
+}
+#header p {
+	color: #357EF8;
+}
+#header #headerLeft h2 {
+	color: #6C9EF2;
+}
+#main #bread a {
+	color: #3B98F8;
+}
+#main .contentsBox {
+}
+#main #contentNews .contentsBoxTitle a.listLook {
+	color: #454545;
+}
+#main #contentNews .newsContentWrap {
+	border-bottom-color: #DCEAFC;
+}
+#main #contentNews .newsContentWrap .newsTitle span {
+	color: #454545;
+}
+#main #contentNews .newsContentWrap .clearfix p a {
+	color: #454545;
+}
+#main #contentNews .newsContentWrap .clearfix p a:hover {
+	color: #4082EE;
+}
+
+#side #navigation li a {
+	color: #2a271c;
+}
+#side #navigation li a:hover {
+	color: #2a271c;
+}
+#side #navigation li.active a {
+	color: #2a271c;
+	font-weight:bold;
+}
+#side #navigation li.sub a {
+	background-color: #f7f7f7;
+}
+#side #navigation li.sub a:hover {
+	color: #118CB5;
+}
+#side #navigation li.subActive a {
+	color: #118CB5;
+}
+#side #navigation li.gc a {
+	color: #656565;
+	background-color: #f7f7f7;
+}
+#side #navigation li.gc a:hover {
+	color: #9E9E9E;
+}
+#side #navigation li.gcActive a {
+	color: #118CB5;
+}
+#side #navigation li.gcActive a:hover {
+	color: #118CB5;
+}
+#side #access #accessInner {
+	background-color: #f5f5f5;
+}
+#sideNews .contentsBoxTitle a.listLook {
+	color: #454545;
+}
+#sideNews .newsContentWrap {
+	border-bottom-color: #cce0fb;
+}
+#sideNews .newsContentWrap .newsTitle span {
+	color: #454545;
+}
+#sideNews .newsContentWrap p a {
+	color: #454545;
+}
+#sideNews .newsContentWrap p a:hover {
+	color: #4082EE;
+}
+#searchWrap form input.searchInput {
+	border-color: #CCCCCC;
+	color: #AAAAAA;
+}
+#footer {
+	color: #636363;
+}
+#footerInner {
+	background:url(images/footer_bg.png) left top;
+	margin-top:10px;
+	}
+#footerBottom {
+}
+#footer #footerContent ul {
+	text-align:center;}
+
+#footer #footerContent li a {
+	color:#636363;
+}
+#footerFreeArea a {
+	color:#636363;
+}
+
+/*--- pulldownMenu style ---*/
+.navTypeCross #navigation ul#nav ul a {
+	background-color: #FFF;
+}
+.navTypeCross #navigation ul#nav ul a:hover {
+	color: #FFF;
+}
+#side #navigation ul#nav ul li.pullSubLi a.subNavigationBg,
+#side #navigation ul#nav ul li.pullGcLi a.gcNavigationBg {
+	background-color: #FFF;
+}
+#side #navigation ul#nav ul li.pullSubLi a.subNavigationBg:hover,
+#side #navigation ul#nav ul li.pullGcLi a.gcNavigationBg:hover {
+	background-color: #FFF;
+	color: #FFF;
+}
+
+.navTypeCross #navigation li a.navigationBg {
+	color: #454545;
+}
+.navTypeCross #navigation li.menu01 a.navigationBg:hover,
+.navTypeCross #navigation li.menu02 a.navigationBg:hover,
+.navTypeCross #navigation li.menu03 a.navigationBg:hover {
+	color: #FFF;
+}
+.navTypeCross #navigation li.menu04 a.navigationBg:hover,
+.navTypeCross #navigation li.menu05 a.navigationBg:hover,
+.navTypeCross #navigation li.menu06 a.navigationBg:hover {
+	color: #FFF;
+}
+.navTypeCross #navigation li.menu01 a.navigationBgActive,
+.navTypeCross #navigation li.menu02 a.navigationBgActive,
+.navTypeCross #navigation li.menu03 a.navigationBgActive {
+	color: #FFF;
+}
+.navTypeCross #navigation li.menu04 a.navigationBgActive,
+.navTypeCross #navigation li.menu05 a.navigationBgActive,
+.navTypeCross #navigation li.menu06 a.navigationBgActive {
+	color: #FFF;
+}
+
+.navTypeCross #subNavigation li.gc {
+	background-color: #f7f7f7;
+}
+.navTypeCross #subNavigation li.gc a {
+	color: #656565;
+}
+.navTypeCross #subNavigation li.gc a:hover {
+	color: #9E9E9E;
+}
+.navTypeCross #subNavigation li.gcActive a {
+	color: #335385;
+}
+.navTypeCross #subNavigation li.gcActive a:hover {
+	color: #335385;
+}
+.navTypeCross #subNavigation a {
+	color: #335385;
+}
+.navTypeCross #subNavigation a:hover {
+	color: #118CB5;
+}
+.navTypeCross #subNavigation li.active a {
+	color: #333;
+}
+.navTypeCross #subNavigation li.active a:hover {
+	color: #335385;
+}
+#newsContent .newsTitle span {
+	color: #041b5b;
+}
+#newsContent #sideContentTitle a {
+	color: #454545;
+}
+#newsContent .newsContentWrap .clearfix a {
+	color: #454545;
+}
+#newsContent .newsContentWrap .clearfix a:hover {
+	color: #6095F1;
+}
+.navType06 #navigation li a.navigationBg {
+	color: #62778c;
+}
+
+/*--- navType05combine ---*/
+#blogMenu .blogMenuWrap {
+	border-color: #e3efff;
+	background:#fff;
+}
+#blogMenu .blogMenuWrap h4 {
+	background-color: #6699f2;
+	color: #FFF;
+	text-shadow:none;
+}
+#blogMenu #calender table {
+	border-color: #dbe8ff;
+}
+#blogMenu #calender th,
+#blogMenu #calender td {
+	border-color: #dbe8ff;
+}
+.blogUnderMenu h5 {
+	color: #454545;
+}
+#trackbackUrl input.trackback {
+	color: #454545;
+	border-color: #c8dcff;
+}
+#article .articleWrap p.data {
+	color: #747474;
+}
+#article .comment {
+	border-color: #cddfff;
+}
+#article .comment form input.nameInput,
+#article .comment form input.addressInput,
+#article .comment form textarea {
+	border-color: #c8dcff;
+	color: #454545;
+}
+.trackbackBox,
+.commentBox {
+	border-bottom-color: #d1d1d1;
+}
+#pagenation .previous a {
+	color: #454545;
+}
+#pagenation .next a {
+	color: #454545;
+}
+#pagenation li a {
+	background-color: #4da1de;
+	color: #FFF;
+}
+#pagenation li a:hover {
+	background-color: #84C4F2;
+}
+#pagenation li span.current {
+	background-color: #84C4F2;
+	color: #FFF;
+}
+
+#sitemap a {
+	color: #333333;
+}
+#sitemap .menu {
+	background-color: #fff;
+	border-color: #a3c2f1;
+}
+#sitemap h4 a {
+	color: #606060;
+}
+#sitemap .subMenu a {
+	color: #3278c9;
+}
+#sitemap li a {
+	color: #3278c9;
+}
+#notfound {
+	border-color: #d8d8d8;
+	color: #5f5e5e;
+}
+#notfound form input.searchInput {
+	border-color: #CCCCCC;
+	color: #AAAAAA;
+}
+#notfound p.link a {
+	color: #5b97ff;
+}
+#notfound .notfoundCont h4 {
+	color: #5f5e5e;
+}
+#notfound #sitemap h5 a {
+	color: #606060;
+}
+#aboutRss .rssReader h4 {
+	color: #1e64dc;
+}
+#aboutRss .webService,
+#aboutRss .browser {
+	border-color: #c1d8ff;
+}

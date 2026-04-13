@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+body {
+	background-image: none;
+}
+#mainImage {
+	height: 0px;
+	display: none;
+}
+.navType01combine #headerImage {
+	height: 150px !important;
+}
+.navType03combine #headerImage {
+	height: 150px !important;
+}
+.navType05combine #headerImage {
+	height: 150px !important;
+}
+#headerImage {
+	width: 920px;
+}
+#footer {
+	width: 920px;
+}

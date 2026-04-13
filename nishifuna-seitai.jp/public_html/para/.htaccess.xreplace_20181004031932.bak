@@ -1,0 +1,14 @@
+AddHandler cgi-script htaccess
+AddHandler x-httpd-php5.3 .php .phps
+
+
+# Set enviroment value by user-agent
+SetEnvIf User-Agent "iPhone" UA=sp
+SetEnvIf User-Agent "Android" UA=sp
+
+RewriteEngine On
+
+# Redirect if smart phone
+RewriteCond %{REQUEST_URI} !^/para/sp.*
+RewriteCond %{ENV:UA} ^sp$
+RewriteRule ^(.*)$ /para/sp/ [R,L]

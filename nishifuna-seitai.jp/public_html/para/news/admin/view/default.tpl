@@ -1,0 +1,1 @@
+<div id="copy">Copyright (c) 2012 Townet-one All Right Reserved.</div>

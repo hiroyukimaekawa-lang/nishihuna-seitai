@@ -1,0 +1,5 @@
+User-Agent: *
+Sitemap: http://www.nishifuna-seitai.jp/sitemap.xml
+Sitemap: http://www.nishifuna-seitai.jp/blog/sitemap.xml
+
+

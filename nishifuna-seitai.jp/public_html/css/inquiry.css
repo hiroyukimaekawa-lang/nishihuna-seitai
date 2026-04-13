@@ -1,0 +1,101 @@
+.form_error {
+	margin-bottom: 15px;
+	color: red;
+}
+.explanation {
+	margin-bottom: 15px;
+	line-height: 160%;
+}
+#FORM table {
+	border: 1px solid #cccccc;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+	width: 100%;
+}
+#FORM th,td {
+	border: 1px solid #cccccc;
+	border-collapse: collapse;
+	padding: 3px 8px;
+}
+#FORM th {
+	background-color: #eeeeee;
+	font-weight: normal;
+	text-align: left;
+}
+#FORM table input {
+	padding: 3px;
+	margin-right: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#FORM .btn {
+	text-align: center;
+	font-size: 120%;
+}
+#FORM .btn input {
+	padding: 5px 13px;
+}
+#FORM select {
+	padding: 3px;
+	margin-right: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#FORM label input {
+	margin-right: 3px;
+}
+#FORM textarea {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height: 180px;
+}
+#FORM .form_required {
+	color: red;
+}
+#FORM .form_comment {
+	color: #8D7323;
+}
+
+#FORM .form_hr hr {
+	border-color: #CCC;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+/* input_screen */
+.input_screen th {
+	width: 160px;
+}
+
+/* conf_screen */
+.conf_screen th {
+	width: 180px;
+}
+.conf_screen th,
+.conf_screen td {
+	padding: 8px;
+}
+
+
+.form_input_size01 {
+	width:50px;
+}
+.form_input_size02 {
+	width:100px;
+}
+.form_input_size03 {
+	width:150px;
+}
+.form_input_size04 {
+	width:200px;
+}
+.form_input_size05 {
+	width:250px;
+}
+.form_input_size06 {
+	width:340px;
+}
+.form_input_size07 {
+	width:400px;
+}
+

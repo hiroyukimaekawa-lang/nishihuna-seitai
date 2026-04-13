@@ -1,0 +1,9 @@
+AddHandler cgi-script htaccess
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(pa-ra\.com)(:80)? [NC]
+RewriteRule ^(.*) http://www.pa-ra.com/$1 [R=301,L]
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^.*/index.php
+RewriteRule ^(.*)index.php$ http://www.pa-ra.com/$1 [R=301,L]
+AddHandler x-httpd-php5.3 .php .phps

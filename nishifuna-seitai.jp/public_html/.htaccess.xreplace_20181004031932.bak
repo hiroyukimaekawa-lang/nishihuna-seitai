@@ -1,0 +1,5 @@
+suPHP_ConfigPath /home/n-seitai/nishifuna-seitai.jp/xserver_php/
+AddHandler x-httpd-php5.3 .php .phps
+AddHandler fcgid-script .php .phps
+FCGIWrapper "/home/n-seitai/nishifuna-seitai.jp/xserver_php/php-cgi -c /home/n-seitai/nishifuna-seitai.jp/xserver_php/php.ini" .php
+FCGIWrapper "/home/n-seitai/nishifuna-seitai.jp/xserver_php/php-cgi -c /home/n-seitai/nishifuna-seitai.jp/xserver_php/php.ini" .phps

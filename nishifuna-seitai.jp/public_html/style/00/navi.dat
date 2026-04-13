@@ -1,0 +1,35 @@
+1	top	navType01 navTypeLeft
+1	under	navType01 navTypeLeft underLayerPage
+1	blog	navType01 navTypeLeft navTypeBlog navTypeBlogLeft
+
+2	top	navType01combine navTypeLeft
+2	under	navType01combine navTypeLeft
+2	blog	navType01combine navTypeLeft navTypeBlog navTypeBlogLeft
+
+3	top	navType02 navTypeLeft
+3	under	navType02 navTypeLeft underLayerPage
+3	blog	navType02 navTypeLeft navTypeBlog navTypeBlogParallel navTypeBlogLeft
+
+4	top	navType03 navTypeRight
+4	under	navType03 navTypeRight underLayerPage
+4	blog	navType03 navTypeRight navTypeBlog navTypeBlogRight
+
+5	top	navType03combine navTypeRight
+5	under	navType03combine navType03combineUnderLayer navTypeRight
+5	blog	navType03combine navTypeRight navTypeBlog navTypeBlogRight
+
+6	top	navType04 navTypeRight
+6	under	navType04 navTypeRight underLayerPage
+6	blog	navType04 navTypeRight navTypeBlog navTypeBlogParallel navTypeBlogRight
+
+7	top	navTypeCross navType05
+7	under	navTypeCross navType05 underLayerPage
+7	blog	navTypeCross navType05 navTypeBlog navTypeBlogCross
+
+8	top	navTypeCross navType05combine
+8	under	navTypeCross navType05combine navType05combineUnderLayer
+8	blog	navTypeCross navType05combine navTypeBlog navTypeBlogCross
+
+9	top	navTypeCross navType06
+9	under	navTypeCross navType06 underLayerPage
+9	blog	navTypeCross navType06 navTypeBlog navTypeBlogCross

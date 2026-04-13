@@ -1,0 +1,78 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: info@pa-ra.com
+Received: by sv302.xserver.jp (Postfix)
+	id 05BED1080269; Thu, 29 Jan 2015 07:32:07 +0900 (JST)
+Date: Thu, 29 Jan 2015 07:32:07 +0900 (JST)
+From: MAILER-DAEMON@sv302.xserver.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@pa-ra.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="AE4C81080214.1422484327/sv302.xserver.jp"
+Message-Id: <20150128223207.05BED1080269@sv302.xserver.jp>
+XSRV-Filter: info@pa-ra.com
+
+This is a MIME-encapsulated message.
+
+--AE4C81080214.1422484327/sv302.xserver.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sv302.xserver.jp.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<megan@paperspec.com.au>: Host or domain name not found. Name service error for
+    name=paperspec.com.au type=A: Host not found
+
+--AE4C81080214.1422484327/sv302.xserver.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sv302.xserver.jp
+X-Postfix-Queue-ID: AE4C81080214
+X-Postfix-Sender: rfc822; info@pa-ra.com
+Arrival-Date: Thu, 29 Jan 2015 07:32:06 +0900 (JST)
+
+Final-Recipient: rfc822; megan@paperspec.com.au
+Original-Recipient: rfc822;megan@paperspec.com.au
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=paperspec.com.au type=A: Host not found
+
+--AE4C81080214.1422484327/sv302.xserver.jp
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from sv302.xserver.jp (sv302.xserver.jp [127.0.0.1])
+	by sv302.xserver.jp (Postfix) with ESMTP id AE4C81080214
+	for <megan@paperspec.com.au>; Thu, 29 Jan 2015 07:32:06 +0900 (JST)
+Received: from sv302.xserver.jp (127.0.0.1)
+ by sv302.xserver.jp (F-Secure/virusgw_smtp/400/sv302.xserver.jp);
+ Thu, 29 Jan 2015 07:32:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/400/sv302.xserver.jp)
+Received: from ?????? (unknown [221.138.252.114])
+	by sv302.xserver.jp (Postfix) with ESMTP id 103651080234
+	for <megan@paperspec.com.au>; Thu, 29 Jan 2015 07:32:03 +0900 (JST)
+From: info@pa-ra.com
+To: megan@paperspec.com.au
+Subject: =?UTF-8?Q?Urgent_alert_for_Megan._BPay_Dispute_?=
+ =?UTF-8?Q?Number__64702?=
+Date: Wed, 28 Jan 2015 22:32:02 +0000
+MIME-Version: 1.0 (produced by Synapse)
+X-mailer: Synapse - Pascal TCP/IP library by Lukas Gebauer
+Content-type: Multipart/mixed; boundary="2C603EC4_5449BB41_Synapse_boundary"
+Content-Description: Multipart message
+Message-Id: <20150128223203.103651080234@sv302.xserver.jp>
+
+--AE4C81080214.1422484327/sv302.xserver.jp--
